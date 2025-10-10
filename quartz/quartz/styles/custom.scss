@@ -1,0 +1,22 @@
+// put your custom CSS here!
+.dynamic-popover {
+  position: absolute;
+  max-width: 300px;
+  background: var(--light-bg);
+  color: var(--light-text);
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--gray);
+  border-radius: 6px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.15);
+  font-size: 0.9rem;
+  z-index: 1000;
+  line-height: 1.5;
+}
+
+@media (prefers-color-scheme: dark) {
+  .dynamic-popover {
+    background: white;
+    color: black;
+    border-color: black;
+  }
+}
