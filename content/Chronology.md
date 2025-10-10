@@ -1,4 +1,4 @@
-
+(If the timeline doesn't display, try refreshing the page!)
 <div id="visualization"></div>
 
 <link href="https://unpkg.com/vis-timeline@latest/styles/vis-timeline-graph2d.min.css" rel="stylesheet" />
@@ -13,7 +13,7 @@
     // Slugify titles for Quartz-style URLs
     function slugify(text) {
       return text
-        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/[^A-Za-z0-9]+/g, '-')
         .replace(/^-+|-+$/g, '');
     }
 
