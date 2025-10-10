@@ -31,7 +31,7 @@
     const items = new vis.DataSet(
       events.map((event) => {
         const link = document.createElement('a');
-        link.href = `/History/${slugify(event.title)}`;
+        link.href = `culture/History/${slugify(event.title)}`;
         link.textContent = event.title;
         link.classList.add('internal');
         link.classList.add('dyn-popover');
