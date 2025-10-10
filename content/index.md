@@ -1,6 +1,6 @@
 ---
 title: Welcome to Quartz
 ---
+![[Iflaukais.png]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+See the [[Chronology]] page for a timeline!
