@@ -11,7 +11,7 @@ The Wajahe can be divided into four groups. Together, the Wajahe are all named h
 
 #### Overview
 
-## t͡snæ.zʋy.kæ and tʷʋɛs.t͡swel - The Wajahe of the Great River
+## t͡snæ.zʋy.kæ and tʷʋɛs.t͡swel - The Wajahe of the [[Great River]]
 
 #### Overview
 

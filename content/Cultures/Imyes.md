@@ -1,0 +1,1 @@
+The **Imyes**, later Igiich, are a historical group of Wajahic peoples. Once widespread across the [[Zitis]] steppe and southern forests, they now exist as a few scattered bands of nomads with no organized states or institutions and without any centralized cohesion to speak of. 

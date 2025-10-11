@@ -1,0 +1,38 @@
+#### Flora
+- Artichoke
+- [[Beetroot]]
+- Bok Choy
+- Carrot
+- Cherry
+- Chickory
+- Chive
+- Dill
+- Garlic
+- Hemp
+- Kale
+- Leek
+- Mint
+- Oats (Common Oats, Black Oats, Naked Oats)
+- Parsnip
+- Pear
+- Pine (pine sap)
+- Potato
+- Pumpkin
+- Raspberry
+- Rhubarb
+- Rosemary
+- Sage
+- Snowpea
+- Strawberry
+- Sweet Potato
+- Tarragon
+- Wheat
+- [[Yerba Mate]]
+
+#### Fauna
+- [[Horse]]
+- Goat
+- Duck
+- Pig
+- Falcon (tamed)
+- Eagle (tamed)

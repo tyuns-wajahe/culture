@@ -22,7 +22,8 @@
       { title: 'The Ksehyl', start: '0000-01-01', group: 'inst' },
       { title: 'Early Clan Centralization', start: '0375-01-01', end: '0425-01-01', group: 'period' },
       {  title: 'The Founding of Kheze', start: '1028-01-01', group: 'inst' },
-	{ title: 'Predynastic Period', start: '0000-01-01', end: '1728-01-01', type: 'background'}
+	  { title: 'Predynastic Period', start: '0000-01-01', end: '1728-01-01', type: 'background'},
+	  { title: 'Decline of the Riverine Civilization', start: '2625-01-01', end: '2800-01-01', group: 'period' }
     ];
     //      
 

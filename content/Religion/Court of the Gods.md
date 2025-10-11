@@ -1,0 +1,1 @@
+The Court of the Gods is located on an island within the Iron Lakes, in the eastern end of the Upper [[Great River]]. This court is not visible to humans, but the island remains a significant pilgrimage site.
