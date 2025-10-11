@@ -4,7 +4,7 @@
 <link href="https://unpkg.com/vis-timeline@latest/styles/vis-timeline-graph2d.min.css" rel="stylesheet" />
 <script src="https://unpkg.com/vis-timeline@latest/standalone/umd/vis-timeline-graph2d.min.js"></script>
 
-[[The First War]]
+[[The Ksehyl]]
 
 <script type="module">
   window.addEventListener('DOMContentLoaded', () => {
@@ -19,7 +19,7 @@
 
     // Your timeline events
     const events = [
-      { title: 'The First War', start: '0000-01-01', group: 'inst' },
+      { title: 'The Ksehyl', start: '0000-01-01', group: 'inst' },
       { title: 'Early Clan Centralization', start: '0375-01-01', end: '0425-01-01', group: 'period' },
       {  title: 'The Founding of Kheze', start: '1028-01-01', group: 'inst' },
 	{ title: 'Predynastic Period', start: '0000-01-01', end: '1728-01-01', type: 'background'}
