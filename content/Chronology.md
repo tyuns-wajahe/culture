@@ -41,19 +41,19 @@
         
         switch (event.title) {
 	        case 'The Old Wajahic Script':
-		        link.href = `./Wajahe-Scripts#the-old-wajahic-script`;
+		        link.href = `./Wajahic-Scripts#the-old-wajahic-script`;
 		        break;
 		    case 'Emergence of the Abjad':
-		        link.href = `./Wajahe-Scripts#early-abjads`;
+		        link.href = `./Wajahic-Scripts#early-abjads`;
 		        break;
 		    case 'Low and High Abjads':
-		        link.href = `./Wajahe-Scripts#early-abjads`;
+		        link.href = `./Wajahic-Scripts#early-abjads`;
 		        break;
 		    case 'Classical Abjad':
-		        link.href = `./Wajahe-Scripts#classical-wajahic-script`;
+		        link.href = `./Wajahic-Scripts#classical-wajahic-script`;
 		        break;
 		    case 'Middle Abjad':
-		        link.href = `./Wajahe-Scripts#middle-wajahic-abjad`;
+		        link.href = `./Wajahic-Scripts#middle-wajahic-abjad`;
 		        break;
         }
         
