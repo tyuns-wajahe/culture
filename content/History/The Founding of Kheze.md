@@ -9,7 +9,7 @@ aat-event-end-date: 380
 
 ## Settlements in 1028 KS
 
-![[Pasted image 20251010194940.png]]
+![[Founding of Kheze - settlements.png]]
 
 ### Key
 1. [ʈ͡ʂʷɥɔwɔ](Chyowo%20(city))
@@ -24,7 +24,7 @@ Neither hsit͡sɛ nor hisit͡se should be confused with [[Hisitse Clan]] or [[Hi
 
 ## Clans in 1028 KS, and their approximate boundaries
 
-![[Pasted image 20251010195534.png]]
+![[Founding of Kheze - clans.png]]
 
 - Red: ʈ͡ʂəwʐəɥ clan,
 - Orange: [nɬe](Nla%20Clan),

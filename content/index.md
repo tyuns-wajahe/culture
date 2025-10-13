@@ -3,8 +3,6 @@ title: The Wajahe
 ---
 *See the [[Chronology]] page for a timeline!*
 
-# The Wajahe
-
 The **Wajahe** are a civilization located in the Lakes, Great River, and northern steppe of [[Zitis]].
 
 ---
@@ -12,9 +10,10 @@ The **Wajahe** are a civilization located in the Lakes, Great River, and norther
 Check out the following pages, or use the search bar to the left
 - [[Chronology]]
 - [[Cultural Divisions, Structures, Lives, and Livelihoods]]
-- [[Language and Writing System]]
+- [[Wajahic Languages]]
+- [[Wajahic Scripts]]
 - [[Religion]]
-- [[Cities and Infrastructure]]
+- [[Settlements and Infrastructure]]
 - [[Calendar]]
 - [[Cuisine]]
 - [[Domestication]]

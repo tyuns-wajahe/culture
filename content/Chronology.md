@@ -4,8 +4,6 @@
 <link href="https://unpkg.com/vis-timeline@latest/styles/vis-timeline-graph2d.min.css" rel="stylesheet" />
 <script src="https://unpkg.com/vis-timeline@latest/standalone/umd/vis-timeline-graph2d.min.js"></script>
 
-[[The Ksehyl]]
-
 <script type="module">
   window.addEventListener('DOMContentLoaded', () => {
     const container = document.getElementById('visualization');
@@ -23,7 +21,12 @@
       { title: 'Early Clan Centralization', start: '0375-01-01', end: '0425-01-01', group: 'period' },
       {  title: 'The Founding of Kheze', start: '1028-01-01', group: 'inst' },
 	  { title: 'Predynastic Period', start: '0000-01-01', end: '1728-01-01', type: 'background'},
-	  { title: 'Decline of the Riverine Civilization', start: '2625-01-01', end: '2800-01-01', group: 'period' }
+	  { title: 'Decline of the Riverine Civilization', start: '2625-01-01', end: '2800-01-01', group: 'period' },
+	  { title: 'The Old Wajahic Script', start: '1550-01-01', group: 'inst' },
+	  { title: 'Emergence of the Abjad', start: '1800-01-01', group: 'inst' },
+	  { title: 'Low and High Abjads', start: '2100-01-01', group: 'inst' },
+	  { title: 'Classical Abjad', start: '2450-01-01', group: 'inst' },
+	  { title: 'Middle Abjad', start: '2870-01-01', group: 'inst' },
     ];
     //      
 
@@ -35,6 +38,24 @@
         link.textContent = event.title;
         link.classList.add('internal');
         link.classList.add('dyn-popover');
+        
+        switch (event.title) {
+	        case 'The Old Wajahic Script':
+		        link.href = `./Wajahe-Scripts#the-old-wajahic-script`;
+		        break;
+		    case 'Emergence of the Abjad':
+		        link.href = `./Wajahe-Scripts#early-abjads`;
+		        break;
+		    case 'Low and High Abjads':
+		        link.href = `./Wajahe-Scripts#early-abjads`;
+		        break;
+		    case 'Classical Abjad':
+		        link.href = `./Wajahe-Scripts#classical-wajahic-script`;
+		        break;
+		    case 'Middle Abjad':
+		        link.href = `./Wajahe-Scripts#middle-wajahic-abjad`;
+		        break;
+        }
         
         const outevent = {
           start: event.start,

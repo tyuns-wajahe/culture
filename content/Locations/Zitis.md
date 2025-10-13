@@ -1,6 +1,6 @@
 **Zitis** (also known as Westral) is the region that comprises the civilized world. 
 
-![[Pasted image 20251010234533.png]]
+![[Zitis - 3053 KS.png]]
 *A map of Zitis in 3053 KS*
 
 ### Cultures of Zitis
