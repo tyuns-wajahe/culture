@@ -1,0 +1,19 @@
+- One must never carry (not wear) their mask in the presence of a holy place, then the Gods will see you for who you are, and will bring bad luck upon you and your clan
+- If you ride the horse of a dead Wajahe, your dead horse will trample over you. If you ride the horse of an enemy that still takes breath, your horses will flee
+- If a warrior dies on horseback, the horse must be slaughtered for the funeral feast. If it is not, it will leave to join the enemy
+- Hurting a prisoner taken in battle will bring that pain twelvefold upon your clan
+- If a man falls off a horse, nobody in the clan must talk to them for 12 days while other horses are around, or else their horses will also throw them off
+- If the spoke of the chariot wheel breaks, then the source of your misfortune is your horse. If the rim of the chariot wheel breaks, then the source of your misfortune is the driver. 
+- One must never show affection to other animals in the presence of their horse, else the jealous horse will curse them and their clan
+- One must never show affection to their horse in the presence of their lover, else the jealous lover will kill their horse
+- If you build a house that does not move, the spirits of your ancestors will take up residence. If you do not leave them an empty room for their residence, however small, then they will curdle your milk, bring in foul smelling winds, release your livestock, and interrupt your lovemaking.
+- If you have a horse cross a stream then you must cover their hooves with mud again, lest they forget the feel of the ground beneath their feet and leave to live under the lakes forever
+- If one man has twelve horses, however they are acquired, then the horses together will be more intelligent than him, and they will become his master. One must never talk to such a man, beholden to his horses, lest their own horses get any ideas
+- If one stores the meat of fish and animal in the same house, then great misfortune will come upon their harvest
+- If a person goes for 144 days without eating any horse or drinking its milk, then their own stomach will strangle them to death, a final act of rebellion
+- The first cut of the harvest should be offered to the horses, or great misfortune will befall your crops before the harvest is complete
+- The last cut of the harvest should be offered to the fish by casting it into the lake, else your clan will have poor luck fishing for a year
+- For each arrow fired true from a chariot, a bushel of wheat must be burnt. For each arrow fired false from a chariot, the horses must be whipped once.
+- If the birthmother dies, the children must not take their horses, or great misfortune will befall the clan
+- If 3 horses are taken from the enemy by a warrior, 1 must be given to their birthmother, or the other two will leave of their own will
+- One person must never drive a chariot alone, or it will bring ill luck to all that drive the chariot after

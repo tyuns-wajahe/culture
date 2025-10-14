@@ -1,0 +1,27 @@
+*This text is set in 2530 KS, towards the end of the [First Intermediate Period](First%20Intermediate%20Period.md)
+*
+### Punishments 
+Though the old [law code of the ɥnəhɨʈ͡ʂɨk](Law%20Code%20of%20the%201st%20Dynasty) established three primary punishments to deal with any crime, the half-millennium since those early days have resulted in a variety of regional law codes, with a variety of new punishments. These are elaborated upon below.
+
+##### Fines
+Fines are the most common punishment, and are enforced in every state across the culture. Fines are established according to a law code, typically kept in value with the old one - without centralized minting, there is little incentive to change the values of the fines from the old law code. Essentially every minor infraction is punished with a fine. Fines are paid to the victim, with a portion of it optionally going to the Clan, out of the goodness of the victim's heart (this is only voluntary in name). The proceeds from the fine go to the Clan as a whole, of course held for use by the elders, where it essentially just enters the treasury of the state (with some amount always skimmed off the top by the enforcers). Fines are usually different amounts for [hr̩ə (the upper classes) and hʷt͡sɥøt͡sk (the lower classes)](Social%20Classes.md), always beneficial towards the former. Fines are paid in [silver Marks](Currency.md) - a denomination of currency representing the smallest ring.
+
+##### Revenge Killings
+Revenge killings, though an established punishment in the old law code, are not uniformly used across the Wajahe. In the south and west, due to [Riverine](The%20Riverine%20Culture) influence, these are often seen as barbaric - this does not stop them from occurring, but typically prevents them from being legally sanctioned in any way for most crimes (except, of course, revenge for another revenge killing - the Clan always steps in here to sanction this and ensure the chain does not end in the eradication of entire families). Meanwhile, in the east and especially in the north, revenge killings are still as common as in the past, and remain state sanctioned in a variety of circumstances.
+
+##### Executions
+The final punishment established in the old law code, executions are reserved only for the most heinous crimes. In the west, the chief retains his old right as executioner - which they often abuse for personal political gain. In the south, the chief is typically the executioner at the behest of the clan elders. In the north and east, as an alternative to revenge killings, an influential family member carries out a public execution for a heinous crime - though they can request the chief to step in if they desire. 
+
+##### Mutilation
+Mutilation is only practiced in [ɥəʐəɥ](Yerzhay%20Clan). Here, a thief loses a finger, a rapist or one who sleeps with an animal their genitals, and one who covets the horse of another loses their eye. This practice has not spread outside of the city and its immediate environs, and the rest of the Wajahe look upon the ɥəʐəɥ as deeply barbaric in this respect.
+
+##### Imprisonment
+Imprisonment is a rare and new practice, with the rise of a fortified core within the city. This is reserved for people from other clans of some importance, foreign mercenaries, occasionally prisoners of war, and of course for hostages in a hostage-taking treaty (in which case it could be better compared to a house arrest). It remains an exceptional punishment and is not standardized in any law code for an ordinary infraction - the cost of keeping a prisoner is simply too high (as forced labor for prisoners is seen as needlessly humiliating) and an ordinary criminal would simply be executed instead.
+
+##### Live Burial
+The live burial is a popular punishment in [hʷwɨɥtr̩n](Whiterun%20Clan). When sites are being levelled for construction, laborers often make mistakes - due to the [extremely complex and ritualistic architecture practices of the east](Shadow%20Feng%20Shui), this is seen as a truly unforgivable sin. The laborer in question is buried alive within the foundations of the building he is constructing or levelling land for. 
+
+### Criminal Enforcement
+Enforcement of laws falls upon a special force of soldiers, who are kept ready throughout the year (they can be seen as a cross between a military police and a militia). Though most of these have regular professions, these are typically smaller jobs, and their earnings from these is supplemented with an income from the clan (which is typically larger than they would usually make, making this a desirable position, especially with the ability to skim a little off the top which the clan elders usually ignore, outside of [hkʂɨt](Hkshit%20Clan) and [ksɛhen](Ksehen%20Clan) where corruption is not tolerated). In more rural areas, either the local clan, or the local village, depending on the organization, appoint a few farmers for this role - and when they are called on this duty, the remainder of the village is required to tend to their farms and any livestock under their jurisdiction. During harvest season, these farmers will often fabricate work, so others have to do the work of the harvest for them. 
+
+This role, with its many incentives for and abilities to avoid work, have led to it becoming in the south in essence a primitive standing militia - though they primarily deal with criminal activities, they are often enough to deal with a minor raid, and can be raised instantly for such a task with no difficulty. 

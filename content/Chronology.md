@@ -34,6 +34,7 @@
 	  { title: 'Law Code of the 1st Dynasty', start: '1738-01-01', type: 'point' },
 	  { title: 'The Kih Wajahe', start: '1290-01-01', end: '2065-01-01', type: 'range' },
 	  { title: 'The Contest of Chiefs', start: '250-01-01', type: 'point' },
+	  { title: 'Early Currency', start: '1700-01-01', type: 'point' },
     ];
 
     const items = new vis.DataSet(
@@ -74,6 +75,9 @@
 		        break;
 		    case 'The Contest of Chiefs':
 		        link.href = `./History/Predynastic-Period`;
+		        break;
+		    case 'Early Currency':
+		        link.href = `./Technologies/Currency`;
 		        break;
         }
         

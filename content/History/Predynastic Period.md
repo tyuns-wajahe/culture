@@ -39,4 +39,4 @@ Note that dynasty here doesn't refer to a lineage, but rather a cohesive period 
 ### Notes
 
 - Towards the end of this period, the [Kih Wajahe](Tim%20Clan) emerge as a separate Wajahic people in the steppe. Their decline was contemporaneous with the collapse of the 1st dynasty.
-- [Chariots](Chariot), [[Wool Processing]] and [[Glass and Glaze]] were some notable technologies developed by the Wajahe during this period.
+- [Chariots](Chariot.md), [[Wool Processing]] and [[Glass and Glaze]] were some notable technologies developed by the Wajahe during this period.

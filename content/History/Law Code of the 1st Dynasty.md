@@ -4,9 +4,9 @@ The Code of Laws of the ɥnehɨʈ͡ʂɨk cover principally crimes, and the assoc
 The document translates as follows:
 
 The cities were rife with crime, and escalation of revenge brought death to many that could fight. [[Aiokkais]] was enraged, and for 12 days and 12 nights, the sun did not rise. When his anger was mollified by the priests, he presented the councils of the clans with the following document, his word inscribed on paper for all to read:
-1. If a person is able to complete a circuit of the city walls upon horseback without mistake before their 15th Winter, they will be declared [həɭə](Social%20Classes) (True Wajahe).
-2. If a person is unable to complete a circuit of the city walls upon horseback without mistake before their 15th Winter, they will be declared [hʷt͡sʷɥœt͡sk](Social%20Classes) (False Wajahe).
-3. If a hʷt͡sʷɥœt͡sk rides a horse, a fine of 1 [silver mark](Currency) will be paid to the clan.
+1. If a person is able to complete a circuit of the city walls upon horseback without mistake before their 15th Winter, they will be declared [həɭə](Social%20Classes.md) (True Wajahe).
+2. If a person is unable to complete a circuit of the city walls upon horseback without mistake before their 15th Winter, they will be declared [hʷt͡sʷɥœt͡sk](Social%20Classes.md) (False Wajahe).
+3. If a hʷt͡sʷɥœt͡sk rides a horse, a fine of 1 [silver mark](Currency.md) will be paid to the clan.
 4. If a hʷt͡sʷɥœt͡sk rides a horse during a battle, he will be killed by the [[Clan Chief]] himself in a public execution. However, if a hʷt͡sʷɥœt͡sk captures an enemy horse during a battle and while riding upon its back kills an enemy soldier, he will instead be declared həɭə.
 5. If a foreigner fighting for a clan has 3 witnesses saying he killed an enemy soldier while riding horseback and the support of 3 clan elders, he will be declared həɭə.
 6. If a theft occurs, the victim may commit a revenge killing upon the thief without fear of retribution.
