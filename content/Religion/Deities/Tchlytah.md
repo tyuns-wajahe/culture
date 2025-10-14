@@ -1,0 +1,1 @@
+**Tchlytah** is the god of order and justice. He is believed to be a human chief from before the days of the [[The Ksehyl]] who was elevated to godhood following a well-organized series of raids pursuing retribution against a rival clan, in which he would eventually fall.

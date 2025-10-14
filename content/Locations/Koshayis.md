@@ -1,0 +1,1 @@
+Koshayis is a city of the Ejee, originally founded by the [[Dajitti]].

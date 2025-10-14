@@ -31,6 +31,6 @@ Neither hsit͡sɛ nor hisit͡se should be confused with [[Hisitse Clan]] or [[Hi
 - Yellow: niksih clan,
 - White: [ksɛhen](Ksehen%20Clan),
 - Green: kɛst͡sih clan,
-- Blue: kih clan
+- Blue: [kih](Tim%20Clan) clan
 
 In 1028 KS, the 

@@ -1,0 +1,1 @@
+Nodotto is a city of the Ejee, originally established by the [[Dajitti]]. It is also the name of a major Dajitti empire that originated from that city.

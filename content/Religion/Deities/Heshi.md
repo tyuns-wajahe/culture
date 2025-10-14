@@ -1,0 +1,3 @@
+**Heshi** is the god of the (Souls of the dead)[The%20Afterlife]. He gathers and protects those spirits who are lost or confused, but does not provide them undue help in the journey upriver. Once they arrive at the [[Court of the Gods]], Heshi becomes their early liaison in their new life. It is known that Heshi was one of the early chiefs who fought alongside [[Aiokkais]] in the war against [[Osaeuais]], and that his elevation to godhood came as a result of his survival in this war.
+
+Heshi is a deity primarily associated with [[The Riverine Culture]], from whom both the Wajahe and [[Ejee]] are believed to have derived their versions of the deity.

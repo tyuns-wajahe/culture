@@ -1,0 +1,1 @@
+ŋɥeŋe was one of the 5 original Exarchs, hailing from [[Tsepwe Clan]]. He was a significant general who led the focal army in the defeat of the [[Oraculate]] during the [[Third Oracular War]]. Because of his personal defeat of [Svr 51](Svr.md), no [[Oracle]] has ever confirmed his [ascension to godhood](The%20Wajahe%20Pantheon#The%20Younger%20Gods). 

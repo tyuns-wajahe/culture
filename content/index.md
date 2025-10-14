@@ -1,6 +1,8 @@
 ---
 title: The Wajahe
 ---
+##### A site by Sol_InvictusXLII and Dave from Tesco
+
 *See the [[Chronology]] page for a timeline!*
 
 The **Wajahe** are a civilization located in the Lakes, Great River, and northern steppe of [[Zitis]].

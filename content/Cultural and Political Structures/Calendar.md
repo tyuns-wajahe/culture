@@ -27,3 +27,7 @@ Year 0 itself is marked in-script by dropping the year, and using only KS.
 Many times, people will record just the year, and no other component of the date. In this case, it is ambiguous whether the solar or lunar calendar is being used.
 
 0 KS also means 2 entirely different things in the Lunar and Solar reckoning, and there is no attempt to reconcile the ambiguity. Indeed, the battle that marks 0 KS did not occur on the first date of that year, but on 3s2s12sKS (lunar), in the summertime of the year towards its end.
+
+## Counting time
+
+There are 12 hours in a day and 12 in the night, 12 sectors in an hour, 12 minutes in a sector, and 12 seconds in a minute.

@@ -17,20 +17,25 @@
 
     // Your timeline events
     const events = [
-      { title: 'The Ksehyl', start: '0000-01-01', group: 'inst' },
-      { title: 'Early Clan Centralization', start: '0375-01-01', end: '0425-01-01', group: 'period' },
-      {  title: 'The Founding of Kheze', start: '1028-01-01', group: 'inst' },
-	  { title: 'Predynastic Period', start: '0000-01-01', end: '1728-01-01', type: 'background'},
-	  { title: 'Decline of the Riverine Civilization', start: '2625-01-01', end: '2800-01-01', group: 'period' },
-	  { title: 'The Old Wajahic Script', start: '1550-01-01', group: 'inst' },
-	  { title: 'Emergence of the Abjad', start: '1800-01-01', group: 'inst' },
-	  { title: 'Low and High Abjads', start: '2100-01-01', group: 'inst' },
-	  { title: 'Classical Abjad', start: '2450-01-01', group: 'inst' },
-	  { title: 'Middle Abjad', start: '2870-01-01', group: 'inst' },
+      { title: 'The Ksehyl', start: '0000-01-01', type: 'point' },
+      { title: 'Early Clan Centralization', start: '0375-01-01', end: '0425-01-01', type: 'range' },
+      { title: 'Ksehen Resurgent', start: '680-01-01', type: 'point' },
+      {  title: 'The Founding of Kheze', start: '1028-01-01', type: 'point' },
+	  { title: 'Predynastic Period', start: '0000-01-01', end: '1728-01-01', type: 'background' },
+	  { title: 'Decline of the Riverine Civilization', start: '2625-01-01', end: '2800-01-01', type: 'range' },
+	  { title: 'The Old Wajahic Script', start: '1550-01-01', type: 'point' },
+	  { title: 'Emergence of the Abjad', start: '1800-01-01', type: 'point' },
+	  { title: 'Low and High Abjads', start: '2100-01-01', type: 'point' },
+	  { title: 'Classical Abjad', start: '2450-01-01', type: 'point' },
+	  { title: 'Middle Abjad', start: '2870-01-01', type: 'point' },
+	  { title: 'Invention of Wool Processing', start: '1125-01-01', type: 'point' },
+	  { title: 'Invention of Glass and Pottery Glaze', start: '1430-01-01', type: 'point' },
+	  { title: 'Emergence of Early Philosophy', start: '1650-01-01', type: 'point' },
+	  { title: 'Law Code of the 1st Dynasty', start: '1738-01-01', type: 'point' },
+	  { title: 'The Kih Wajahe', start: '1290-01-01', end: '2065-01-01', type: 'range' },
+	  { title: 'The Contest of Chiefs', start: '250-01-01', type: 'point' },
     ];
-    //      
 
-    // Create a DataSet with DOM elements for content
     const items = new vis.DataSet(
       events.map((event) => {
         const link = document.createElement('a');
@@ -54,6 +59,21 @@
 		        break;
 		    case 'Middle Abjad':
 		        link.href = `./Wajahic-Scripts#middle-wajahic-abjad`;
+		        break;
+		    case 'Invention of Wool Processing':
+		        link.href = `./Technologies/Wool-Processing`;
+		        break;
+		    case 'Invention of Glass and Pottery Glaze':
+		        link.href = `./Technologies/Glass-and-Glaze`;
+		        break;
+		    case 'Emergence of Early Philosophy':
+		        link.href = `./Misc/Early-Wajahe-Philosophy`;
+		        break;
+		    case 'The Kih Wajahe':
+		        link.href = `./States-and-Clans/Tim-Clan`;
+		        break;
+		    case 'The Contest of Chiefs':
+		        link.href = `./History/Predynastic-Period`;
 		        break;
         }
         
@@ -81,6 +101,7 @@
     const options = {
       editable: false,
       margin: { item: 20 },
+      showCurrentTime: false,
       format: {
 	      majorLabels: {
 		      year: 'YYYY'
@@ -98,11 +119,9 @@
 </script>
 
 <script type="module">
-  // Store previews to avoid refetching
   const previewCache = {};
 
   function createPopover(link, contentHTML) {
-    // Remove existing popovers
     document.querySelectorAll('.dynamic-popover').forEach(p => p.remove());
 
     const popover = document.createElement('div');
@@ -127,14 +146,9 @@
       const html = await res.text();
       const temp = document.createElement('div');
       temp.innerHTML = html;
-
-      // You may want to refine this selector
       const preview = temp.querySelector('.center');
-
       if (!preview) return '<em>No preview found</em>';
-      
       const content = preview?.outerHTML ?? preview.innerHTML.slice(0, 300);
-      
       previewCache[href] = content;
       return content;
     } catch (err) {
@@ -142,34 +156,23 @@
     }
   }
 
-  // Attach to dynamically inserted internal links
   function enableDynamicPopovers() {
     document.querySelectorAll('a.dyn-popover').forEach(link => {
       if (link.dataset.popoverBound === 'true') return;
-
       link.dataset.popoverBound = 'true';
-
       link.addEventListener('mouseenter', async () => {
         const href = link.getAttribute('href');
         if (!href || href.startsWith('http')) return;
-
         const previewHTML = await fetchPreview(href);
         createPopover(link, previewHTML);
       });
-
-      link.addEventListener('mouseleave', () => {
-        removePopover();
-      });
+      link.addEventListener('mouseleave', () => { removePopover(); });
     });
   }
 
-  // Run after DOM content loaded + after timeline is inserted
   window.addEventListener('DOMContentLoaded', enableDynamicPopovers);
-  // Optional: rerun if you add links later
-  window.enableDynamicPopovers = enableDynamicPopovers;
 </script>
 
-
-
-
-
+```
+(85-68)*25+(68-20)*50-22
+```

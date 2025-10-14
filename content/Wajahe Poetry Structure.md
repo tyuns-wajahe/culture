@@ -1,0 +1,1 @@
+Wajahe poetry comprises of chapters divided into stanzas. Stanzas have 4 verses with the same syllable count (typically unrestricted by meter) followed by a 1 line refrain. The refrain remains the same for all stanzas in a chapter, but may vary across a poem. Shorter poems may maintain an equal number of stanzas per chapter, but longer poems structure chapters contextually. 
