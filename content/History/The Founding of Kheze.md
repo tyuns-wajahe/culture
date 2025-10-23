@@ -14,9 +14,9 @@ aat-event-end-date: 380
 ### Key
 1. [ʈ͡ʂʷɥɔwɔ](Chyowo%20(city))
 2. [ɥəʐəɥ](Yezhey%20(city).md)
-3. hsit͡sɛ (not to be confused with [[Hisitse Clan]] or [[Hisitse (city)]])
+3. hsit͡sɛ
 4. [khɛzɛ](Kheze)
-5. hisit͡se ()
+5. hisit͡se
 6. hʷuʈ͡ʂʷɥɔwtʷɔ
 7. nɛkiɥ
 

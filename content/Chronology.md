@@ -22,6 +22,8 @@
       { title: 'Ksehen Resurgent', start: '680-01-01', type: 'point' },
       {  title: 'The Founding of Kheze', start: '1028-01-01', type: 'point' },
 	  { title: 'Predynastic Period', start: '0000-01-01', end: '1728-01-01', type: 'background' },
+	  { title: 'First Dynasty', start: '1731-01-01', end: '2122-01-01', type: 'background' },
+	  { title: 'First Intermediate Period', start: '2181-01-01', end: '2592-01-01', type: 'background' },
 	  { title: 'Decline of the Riverine Civilization', start: '2625-01-01', end: '2800-01-01', type: 'range' },
 	  { title: 'The Old Wajahic Script', start: '1550-01-01', type: 'point' },
 	  { title: 'Emergence of the Abjad', start: '1800-01-01', type: 'point' },
@@ -35,6 +37,9 @@
 	  { title: 'The Kih Wajahe', start: '1290-01-01', end: '2065-01-01', type: 'range' },
 	  { title: 'The Contest of Chiefs', start: '250-01-01', type: 'point' },
 	  { title: 'Early Currency', start: '1700-01-01', type: 'point' },
+	  { title: 'The Southern War', start: '1878-01-01', type: 'point' },
+	  { title: 'The Battle of Kshnel', start: '2119-01-01', type: 'point' },
+	  { title: 'The Battle of 7 Chiefs', start: '2122-01-01', type: 'point' },
     ];
 
     const items = new vis.DataSet(
@@ -78,6 +83,18 @@
 		        break;
 		    case 'Early Currency':
 		        link.href = `./Technologies/Currency`;
+		        break;
+		    case 'First Dynasty':
+		        link.href = `./States-and-Clans/Ksehen-Clan#the-first-dynasty`;
+		        break;
+		    case 'The Southern War':
+		        link.href = `./States-and-Clans/Ksehen-Clan#the-southern-war`;
+		        break;
+		    case 'The Battle of Kshnel':
+			    link.href = `./States-and-Clans/Ksehen-Clan#collapse-of-the-first-dynasty`;
+		        break;
+		    case 'The Battle of 7 Chiefs':
+			    link.href = `./States-and-Clans/Ksehen-Clan#collapse-of-the-first-dynasty`;
 		        break;
         }
         

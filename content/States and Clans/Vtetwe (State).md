@@ -1,0 +1,1 @@
+Vtetwe was a jagefja?? state somewhere in the north that was yellow colored on the map idk man
