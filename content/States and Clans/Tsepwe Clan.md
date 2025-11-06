@@ -1,7 +1,8 @@
-Tsepwe is a place
-
-##### Stuff happened
-
+**Tsepwe** is a Clan in the High Lakes, centered at [[Tsepwe (City)]]. Emerging as a major urban settlement during the [First Dynastic Period](Ksehen%20Clan#The%20First%20Dynasty), it would be the main clan controlling the Second and Sixth Dynasties, and be the central power during the early [[Second Intermediate Period]]. 
+##### Early Tsepwe
+Tsepwe emerged as a clan only after the establishment and organization of its titular capital city. It is not known what clans were merged and reorganized into the Tsepwe clan; as with most other clans emerging during the First Dynastic Period, the records or memory of older clans were not maintained, and names were not retained in personal nomenclature. After the collapse of the First Dynasty, it would be one of the cities directly conquered (and sacked) by the [[Imyes]], and would secure its independence through warfare, establishing itself as a regional power just before the start of the [[First Intermediate Period]].
+##### 2nd Dynasty
+The Second Dynastic state emerged during the early years of the [[First Intermediate Period]], after Tsepwe's defeat over [[Whiterun Clan]] in [[The Custard Wars]] in 2217KS. It would exist alongside the Third Dynasty, a state controlled by the [[Hisitse Clan]], and the Fourth Dynasty, controlled by the [[Yerzhay Clan]]. The state survived for 76 years, until its defeat at the hands of the Third Dynasty during [[The Tsyw War]] in 2293KS. During this period, it is most famous for the pioneering of Civil Engineering and state-sponsored construction projects, springing from the activities of [[Kzletse]] in Whiterun. Its conquest by the Third Dynasty would facilitate the spread of these innovations across the Wajahic and [Riverine](The%20Riverine%20Culture) world.
 ##### 6th Dynasty
 
 ##### Second Intermediate Period

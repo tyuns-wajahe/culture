@@ -1,0 +1,1 @@
+**Shadow Feng Shui** is a system guiding urban planning and construction, with the central principle being the manipulation of geography to maximize and minimize shadows in certain circumstances to optimize the blessedness of a settlement.

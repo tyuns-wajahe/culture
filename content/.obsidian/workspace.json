@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "50c2c7ea4f302ff6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f351a4770b046197",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3c5110ef256e80a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cultural and Political Structures/Cultural Divisions, Structures, Lives, and Livelihoods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cultural Divisions, Structures, Lives, and Livelihoods"
+            }
+          },
+          {
+            "id": "aeb3b15034b7eb6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/First Intermediate Period.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First Intermediate Period"
+            }
+          },
+          {
+            "id": "e28f68149f1c600e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exarchate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exarchate"
+            }
+          },
+          {
+            "id": "ef4cb6203efadd49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Archon"
+            }
+          },
+          {
+            "id": "ce9f5e7ca83de810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dual Power.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dual Power"
+            }
+          },
+          {
+            "id": "747c64e17c1064c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cultural Characteristics/Gender and Interpersonal Relationships.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gender and Interpersonal Relationships"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "880e818216b16025",
+    "type": "split",
+    "children": [
+      {
+        "id": "37881ea5d2b25e94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f30da558639df2a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "af23d18af4f13e00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "1st",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5e4486e939c4bbea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a87a6f284aab21cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f595da81b91590e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4cb19469ed4680b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cultural and Political Structures/Cultural Divisions, Structures, Lives, and Livelihoods.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cultural Divisions, Structures, Lives, and Livelihoods"
+            }
+          },
+          {
+            "id": "650b9b5682874cee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cultural and Political Structures/Cultural Divisions, Structures, Lives, and Livelihoods.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cultural Divisions, Structures, Lives, and Livelihoods"
+            }
+          },
+          {
+            "id": "4e43be21d0eb88c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1dcaa2d8ffd7514e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cultural and Political Structures/Cultural Divisions, Structures, Lives, and Livelihoods.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cultural Divisions, Structures, Lives, and Livelihoods"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b3c5110ef256e80a",
+  "lastOpenFiles": [
+    "History/First Intermediate Period.md",
+    "Ihwtsrksiw.md",
+    "Cultural and Political Structures/Cultural Divisions, Structures, Lives, and Livelihoods.md",
+    "States and Clans/Bepatj.md",
+    "Exarchate.md",
+    "Archon.md",
+    "Dual Power.md",
+    "Cultural and Political Structures/Clan Elders.md",
+    "Cultural and Political Structures/Social Classes.md",
+    "Cultural Characteristics/Gender and Interpersonal Relationships.md",
+    "States and Clans/Tsepwe Clan.md",
+    "Locations/Tsepwe (City).md",
+    "Locations/Vtetwe (City).md",
+    "The Custard Wars.md",
+    "Religion/Deities/Kzletse.md",
+    "Locations/Whiterun (City).md",
+    "Religion/The Wajahe Pantheon.md",
+    "Shadow Feng Shui.md",
+    "The Imyes Plague.md",
+    "The Hisitse Civil Wars.md",
+    "Kapapt Wars.md",
+    "The Tsyw War.md",
+    "The Sack of Chyowo.md",
+    "Sack of Ksehen (2232 KS).md",
+    "Chronology.md",
+    "Images/Pasted image 20251022181952.png"
+  ]
+}
