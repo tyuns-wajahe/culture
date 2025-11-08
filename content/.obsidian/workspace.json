@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "aeb3b15034b7eb6f",
+            "id": "de3bb23be7b6b7d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,174 +36,35 @@
             }
           },
           {
-            "id": "f655951c7e3ac6c8",
+            "id": "48556da4b87dbf33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Tsyw War.md",
+                "file": "History/Kapapt Wars.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kapapt Wars"
+            }
+          },
+          {
+            "id": "d8e9bd7b746cf305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/The Tsyw War.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "The Tsyw War"
             }
-          },
-          {
-            "id": "ab967f58f824e551",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "States and Clans/Hisitse Clan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hisitse Clan"
-            }
-          },
-          {
-            "id": "0504c2b3fe8d75c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Sack of Chyowo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Sack of Chyowo"
-            }
-          },
-          {
-            "id": "e7380a5867b4100d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4th Dynasty.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4th Dynasty"
-            }
-          },
-          {
-            "id": "e16f5a5f27be55f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "States and Clans/Whiterun Clan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Whiterun Clan"
-            }
-          },
-          {
-            "id": "0cbf4c2554ecc4de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "States and Clans/Tsepwe Clan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tsepwe Clan"
-            }
-          },
-          {
-            "id": "efdf8395a6bb250f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "States and Clans/Tsepwe Clan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tsepwe Clan"
-            }
-          },
-          {
-            "id": "f954cd94c47d0e65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Sack of Ksehen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sack of Ksehen"
-            }
-          },
-          {
-            "id": "e28f68149f1c600e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exarchate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exarchate"
-            }
-          },
-          {
-            "id": "ef4cb6203efadd49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Archon"
-            }
-          },
-          {
-            "id": "ce9f5e7ca83de810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dual Power.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dual Power"
-            }
-          },
-          {
-            "id": "747c64e17c1064c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cultural Characteristics/Gender and Interpersonal Relationships.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gender and Interpersonal Relationships"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,7 +131,8 @@
               "title": "Chronology"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -365,34 +227,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "b8b980e80559f393",
+  "active": "de3bb23be7b6b7d2",
   "lastOpenFiles": [
-    "History/First Intermediate Period.md",
     "Chronology.md",
-    "The Tsyw War.md",
-    "Archon.md",
+    "History/First Intermediate Period.md",
+    "History/Kapapt Wars.md",
+    "History/The Tsyw War.md",
+    "History/Second Intermediate Period.md",
+    "Cultural and Political Structures/Archon.md",
     "Religion/Deities/Kzletse.md",
     "States and Clans/Hisitse Clan.md",
-    "4th Dynasty.md",
-    "The Hisitse Civil Wars.md",
+    "States and Clans/4th Dynasty.md",
+    "History/The Hisitse Civil Wars.md",
     "States and Clans/Whiterun Clan.md",
     "States and Clans/Tsepwe Clan.md",
-    "The Sack of Chyowo.md",
-    "Sack of Ksehen (2232 KS).md",
+    "History/The Sack of Chyowo.md",
+    "History/Sack of Ksehen (2232 KS).md",
     "History/Sack of Ksehen.md",
     "States and Clans/Ksehen Clan.md",
     "Cultural and Political Structures/Chuzde.md",
     "States and Clans/Bepatj.md",
     "Cultural and Political Structures/Cultural Divisions, Structures, Lives, and Livelihoods.md",
-    "Ihwtsrksiw.md",
-    "Exarchate.md",
-    "Dual Power.md",
+    "States and Clans/Ihwtsrksiw.md",
+    "Cultural and Political Structures/Exarchate.md",
+    "Cultural and Political Structures/Dual Power.md",
     "Cultural and Political Structures/Clan Elders.md",
     "Cultural and Political Structures/Social Classes.md",
     "Cultural Characteristics/Gender and Interpersonal Relationships.md",
     "Locations/Tsepwe (City).md",
-    "Locations/Vtetwe (City).md",
-    "The Custard Wars.md",
     "Images/Pasted image 20251022181952.png"
   ]
 }

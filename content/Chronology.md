@@ -43,6 +43,9 @@
 	  { title: 'Liberation of Whiterun', start: '2181-01-01', type: 'point' },
 	  { title: 'The Custard Wars', start: '2217-01-01', type: 'point' },
 	  { title: 'The Second Sack of Ksehen', start: '2232-01-01', type: 'point' },
+	  { title: 'The Tsyw War', start: '2293-01-01', type: 'point' },
+	  { title: 'The First Kapapt War', start: '2437-01-01', type: 'point' },
+	  { title: 'The Second Kapapt War', start: '2441-01-01', type: 'point' },
     ];
 
     const items = new vis.DataSet(
@@ -100,7 +103,13 @@
 			    link.href = `./States-and-Clans/Ksehen-Clan#collapse-of-the-first-dynasty`;
 		        break;
 		    case 'The Second Sack of Ksehen':
-			    link.href = `./History/sack-of-ksehen-`;
+			    link.href = `./History/sack-of-ksehen-(2232-KS)`;
+		        break;
+		    case 'The First Kapapt War':
+			    link.href = `./History/Kapapt-Wars`;
+		        break;
+		    case 'The Second Kapapt War':
+			    link.href = `./History/Kapapt-Wars`;
 		        break;
         }
         
