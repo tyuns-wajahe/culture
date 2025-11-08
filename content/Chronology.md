@@ -112,6 +112,9 @@
 		    case 'The Second Kapapt War':
 			    link.href = `./History/Kapapt-Wars`;
 		        break;
+		    case 'Law Code of the Clan of Whiterun':
+			    link.href = `./History/The-Law-Code-of-the-Clan-of-Whiterun`;
+		        break;
         }
         
         const outevent = {
