@@ -1,0 +1,1 @@
+**Ezzhé** is the principle deity of the pantheon of [[Whiterun Clan]], and an important deity of the [[Jagefja]] in certain regions. He is not worshipped by any other group of Wajahe.

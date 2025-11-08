@@ -34,6 +34,7 @@
 	  { title: 'Invention of Glass and Pottery Glaze', start: '1430-01-01', type: 'point' },
 	  { title: 'Emergence of Early Philosophy', start: '1650-01-01', type: 'point' },
 	  { title: 'Law Code of the 1st Dynasty', start: '1738-01-01', type: 'point' },
+	  { title: 'Law Code of the Clan of Whiterun', start: '3087-01-01', type: 'point' },
 	  { title: 'The Kih Wajahe', start: '1290-01-01', end: '2065-01-01', type: 'range' },
 	  { title: 'The Contest of Chiefs', start: '250-01-01', type: 'point' },
 	  { title: 'Early Currency', start: '1700-01-01', type: 'point' },

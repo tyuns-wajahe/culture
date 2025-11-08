@@ -1,4 +1,5 @@
 **Laws of the [ɥnehɨʈ͡ʂɨk](Ksehen%20Clan#The%20First%20Dynasty)**
+
 The Code of Laws of the ɥnehɨʈ͡ʂɨk cover principally crimes, and the associated retribution and recompense. The rights of the classes are outlined but implicit through the differences in punishment. The document is written in the [Old Wajahic Script](Wajahic%20Scripts#The%20Old%20Wajahic%20Script), in a pre-classical form of the Wajahe language. Though the Wajahe cities have established this law for the entire ɥnehɨʈ͡ʂɨk, this is in name only and in practice is only enforced by the Wajahe cities.
 
 The document translates as follows:
