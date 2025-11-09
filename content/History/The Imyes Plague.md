@@ -1,0 +1,4 @@
+The **Imyes Plague** was a large outbreak that killed around 20% of the population of [[Zitis]]. It spread into Zitis via the Imyes, from lands further to the north-east. This event caused the collapse of many states in Zitis, including the [3rd Dynasty](Hisitse%20Clan#Third%20Dynasty), with the [5th Dynasty](Whiterun%20Clan#5th%20Dynasty) being one of the few to survive intact. The Imyes Plague also directly caused [[The Hisitse Civil Wars]], the conflicts that would be central to Wajahe politics for the next half-century.
+
+![[Pasted image 20251108201211.png]]
+*The Wajahe after the Imyes Plague. Note the independent state forming around the city of [Vtetwe](Vtetwe%20(City)) in the [[Tanlhawes]] to the north; and the collapse of the [[Kapapt]] after the [[Kapapt Wars]] to the south*

@@ -1,0 +1,4 @@
+The **Tanlhawes** are a people inhabiting the mountains in the far north of [[Zitis]]. Originating far to the west, they were pushed eastwards in successive waves of migrations by a series of invaders, the details of which are largely lost in time (but may have been connected to the mysterious western peoples as posited by [[The Displacement Theory]]). Their culture and faith is of mysterious origin, and their religion has influenced the beliefs of the [[Jagefja]] who do not hold fully to [[The Wajahe Pantheon]]. Much of the urban, cultural, and technological development of the Tanlhawes can be connected to the Wajahe (with the establishment of [[Vtetwe (City)]]), especially the Jagefja and the [[Empire of Whiterun]]. 
+
+![[Pasted image 20251108202423.png]]
+*The Tanlhawes*
