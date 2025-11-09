@@ -4,7 +4,7 @@ This is a collection of Wajahe food and beverage.
 
 
 ![[Cured lamb with yogurt and flatbread.png]]
-*A meal from [whiterun](Whiterun%20(city)), cured lamb served with a wheat flatbread and a sauce of garlic and goat cheese.
+*A meal from [whiterun](Whiterun%20(city)), cured lamb served with a wheat flatbread and a sauce of garlic and goat cheese.*
 
 *The lamb or mutton is placed in a jar or amphora. A curing liquid is prepared consisting of salt, honey, dill, garlic, and tarragon. This liquid is first brought to a boil, whereupon it is poured into the jar containing the lamb, which is stirred to expose the surface of the meat for curing. The container is sealed and left in a cool place to cure for a few days, but it must be inspected for signs of rot, and shaken occasionally. The meat is removed, rinsed, and cooked with a pan, after which it is served with a wheat flatbread and a garlic-yogurt.*
 
@@ -19,7 +19,7 @@ This is a collection of Wajahe food and beverage.
 
 While the cuisine of the Wajahe is as varied as the color of the horse hʐɔwhʷɔk hʷywt͡sʷøsøl (bread of garlic) is the centerpiece of any Wajahe meal. Considered a delicacy among foreigners, hʐɔwhʷɔk hʷywt͡sʷøsøl is served in every formal setting with a foreigner from trade to negotiations over tribute. After all, when a man is fed with the food of the gods, they will surely be more than amenable to a favorable deal. Within a Wajahe home, it is rare for a day to go by without it being served. It is never the centerpiece of a meal, and always a side item, much to the dismay of all Wajahe children who wish they could eat just hʐɔwhʷɔk hʷywt͡sʷøsøl all their lives.
 
-The preparation of hʐɔwhʷɔk hʷywt͡sʷøsøl
+**The preparation of hʐɔwhʷɔk hʷywt͡sʷøsøl**
 
 - t͡sikɛ t͡sʷʋɛzlɛ t͡ses t͡se
 - nekɛ t͡sʷʋœzlyhʷʋ, ʂhəkʂɨw økʷytʷwy, hɨw, ʈ͡ʂɨhʷʋ, s=t͡sezɛhʷʋ tih t͡slœks, s=hikɛ wywøl nʷor.
@@ -29,7 +29,7 @@ The preparation of hʐɔwhʷɔk hʷywt͡sʷøsøl
 - ht͡sit͡sikɛ hʷyt͡s hɛwt=ʋele=w
 - het͡sikɛ lhekɛ, she ɔŋʐuɥ pʷøtʷyw hʷyt͡s hɛwt=ʋele=w, t͡siɥ ʋɨwʐənə hʐəɥʂ.
 
-in english - 
+**in english - **
 - churn butter from goat's milk
 - mix some butter, some wheat flour, some water, some salt, and some buttermilk into a dough, and knead it well
 - Make small balls from the dough
@@ -37,7 +37,7 @@ in english -
 - Bake the balls
 - Pray to [[Aiokkais]] that your children do not steal the balls while you are gone.
 
-The eating of hʐɔwhʷɔk hʷywt͡sʷøsøl
+**The eating of hʐɔwhʷɔk hʷywt͡sʷøsøl**
 
 Whenever hʐɔwhʷɔk hʷywt͡sʷøsøl is made, parents must warn the kids that the food is hot. The kids will, of course, ignore this warning and eat it fresh out of the oven, burning their mouths. This is traditional, and it is a sign of bad parenting to wait until it is cool enough to eat before serving it to a child.
 

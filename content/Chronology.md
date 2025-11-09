@@ -44,9 +44,13 @@
 	  { title: 'Liberation of Whiterun', start: '2181-01-01', type: 'point' },
 	  { title: 'The Custard Wars', start: '2217-01-01', type: 'point' },
 	  { title: 'The Second Sack of Ksehen', start: '2232-01-01', type: 'point' },
+	  { title: 'The Sack of Chyowo', start: '2259-01-01', type: 'point' },
 	  { title: 'The Tsyw War', start: '2293-01-01', type: 'point' },
 	  { title: 'The First Kapapt War', start: '2437-01-01', type: 'point' },
 	  { title: 'The Second Kapapt War', start: '2441-01-01', type: 'point' },
+	  { title: 'Establishment of Vtetwe', start: '2462-01-01', type: 'point' },
+	  { title: 'Imyes Plague', start: '2486-01-01', type: 'point' },
+	  { title: 'Ihwtsrksiw', start: '2490-01-01', end: '2783-01-01', type: 'range' },
     ];
 
     const items = new vis.DataSet(
@@ -104,7 +108,7 @@
 			    link.href = `./States-and-Clans/Ksehen-Clan#collapse-of-the-first-dynasty`;
 		        break;
 		    case 'The Second Sack of Ksehen':
-			    link.href = `./History/sack-of-ksehen-(2232-KS)`;
+			    link.href = `./History/Sack-of-Ksehen-(2232-KS)`;
 		        break;
 		    case 'The First Kapapt War':
 			    link.href = `./History/Kapapt-Wars`;
@@ -114,6 +118,12 @@
 		        break;
 		    case 'Law Code of the Clan of Whiterun':
 			    link.href = `./History/The-Law-Code-of-the-Clan-of-Whiterun`;
+		        break;
+		    case 'Establishment of Vtetwe':
+			    link.href = `./Locations/Vtetwe-(City)`;
+		        break;
+		    case 'Ihwtsrksiw':
+			    link.href = `./States-and-Clans/Ihwtsrksiw`;
 		        break;
         }
         

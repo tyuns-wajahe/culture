@@ -36,35 +36,49 @@
             }
           },
           {
-            "id": "34f28430bdb3571f",
+            "id": "8b30bf9c44423373",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/The Law Code of the Clan of Whiterun.md",
+                "file": "History/The Imyes Plague.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Law Code of the Clan of Whiterun"
+              "title": "The Imyes Plague"
             }
           },
           {
-            "id": "8e1fef7dd8fef676",
+            "id": "05c9409b59bc42cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cultural and Political Structures/Archon.md",
+                "file": "States and Clans/Ksehen Clan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Archon"
+              "title": "Ksehen Clan"
             }
           },
           {
-            "id": "48556da4b87dbf33",
+            "id": "da34e7925ab4978b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cultural and Political Structures/Cultural Divisions, Structures, Lives, and Livelihoods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cultural Divisions, Structures, Lives, and Livelihoods"
+            }
+          },
+          {
+            "id": "33952aae0e405df8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,6 +89,20 @@
               },
               "icon": "lucide-file",
               "title": "Kapapt Wars"
+            }
+          },
+          {
+            "id": "8217aba163da33cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "States and Clans/Hisitse Clan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hisitse Clan"
             }
           }
         ]
@@ -109,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "law",
+                "query": "6th",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +172,8 @@
               "title": "Chronology"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,8 +254,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,32 +269,41 @@
   },
   "active": "b8b980e80559f393",
   "lastOpenFiles": [
-    "History/First Intermediate Period.md",
-    "History/The Law Code of the Clan of Whiterun.md",
-    "Chronology.md",
-    "Technologies/Currency.md",
-    "Cultural Characteristics/Gender and Interpersonal Relationships.md",
-    "Individuals/Opshup.md",
-    "Locations/Whiterun (City).md",
-    "Cultural and Political Structures/Archon.md",
-    "Treaty of Eternal Peace.md",
-    "Religion/Deities/Ezzhé.md",
-    "Cultural and Political Structures/Calendar.md",
-    "[[Calendar.md",
-    "History/Kapapt Wars.md",
-    "History/Law Code of the 1st Dynasty.md",
-    "History/The Tsyw War.md",
-    "History/Second Intermediate Period.md",
-    "Religion/Deities/Kzletse.md",
+    "History/The Imyes Plague.md",
+    "States and Clans/Ihwtsrksiw.md",
+    "Cultures/Wzetsyew.md",
+    "Pasted image 20251108204208.png",
+    "States and Clans/Bepatj.md",
+    "Pasted image 20251108203939.png",
+    "Locations/Vtetwe (City).md",
     "States and Clans/Hisitse Clan.md",
-    "States and Clans/4th Dynasty.md",
-    "History/The Hisitse Civil Wars.md",
-    "States and Clans/Whiterun Clan.md",
-    "States and Clans/Tsepwe Clan.md",
-    "History/The Sack of Chyowo.md",
-    "History/Sack of Ksehen (2232 KS).md",
-    "History/Sack of Ksehen.md",
+    "History/First Intermediate Period.md",
+    "Chronology.md",
+    "Cultures/Tanlhawes.md",
+    "Images/Pasted image 20251108194751.png",
+    "Religion/Deities/Bemwe De.md",
+    "Images/Pasted image 20251108202532.png",
+    "Images/Pasted image 20251108202423.png",
+    "The Displacement Theory.md",
     "States and Clans/Ksehen Clan.md",
-    "Images/Pasted image 20251022181952.png"
+    "Cultural and Political Structures/Cultural Divisions, Structures, Lives, and Livelihoods.md",
+    "Cultural and Political Structures/Chuzde.md",
+    "Shanshyotozh (City).md",
+    "Images/Pasted image 20251108201211.png",
+    "Kapapt.md",
+    "History/Kapapt Wars.md",
+    "Images/Pasted image 20251108200807.png",
+    "72.jpg",
+    "Images/Pasted image 20251108200101.png",
+    "Images/Pasted image 20251108200100.png",
+    "Shansyotozh.md",
+    "Locations/Zlathet (City).md",
+    "Locations/Kala (City).md",
+    "Locations/Hisli (City).md",
+    "Locations/Shazhonash (City).md",
+    "Locations/Shalzhay (City).md",
+    "States and Clans/Whiterun Clan.md",
+    "The Riverine Civilization.md",
+    "States and Clans/Chyowo Clan.md"
   ]
 }
