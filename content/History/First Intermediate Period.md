@@ -11,8 +11,8 @@ This section lists a series of events (in chronological order) during the First 
 - 2217 KS - [[The Custard Wars]]
 - 2232 KS - [The Second Sack of Ksehen](Sack%20of%20Ksehen%20(2232%20KS).md)
 - 2259 KS - [[The Sack of Chyowo]]
-- 2293 KS - [[The Tsyw War]]
-	- 2295 KS - Rebellion in Whiterun
+- 2333 KS - [[The Tsyw War]]
+	- 2335 KS - Rebellion in Whiterun
 - 2437 - [The First Kapapt War](Kapapt%20Wars.md)
 - 2441 - [The Second Kapapt War](Kapapt%20Wars.md)
 - 2462 - Establishment of [Vtetwe](Vtetwe%20(City).md)

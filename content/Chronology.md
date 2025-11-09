@@ -45,7 +45,7 @@
 	  { title: 'The Custard Wars', start: '2217-01-01', type: 'point' },
 	  { title: 'The Second Sack of Ksehen', start: '2232-01-01', type: 'point' },
 	  { title: 'The Sack of Chyowo', start: '2259-01-01', type: 'point' },
-	  { title: 'The Tsyw War', start: '2293-01-01', type: 'point' },
+	  { title: 'The Tsyw War', start: '2333-01-01', type: 'point' },
 	  { title: 'The First Kapapt War', start: '2437-01-01', type: 'point' },
 	  { title: 'The Second Kapapt War', start: '2441-01-01', type: 'point' },
 	  { title: 'Establishment of Vtetwe', start: '2462-01-01', type: 'point' },
