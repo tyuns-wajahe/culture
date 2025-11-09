@@ -21,6 +21,8 @@ Check out the following pages, or use the search bar to the left
 - [[Domestication]]
 - [[Gender and Interpersonal Relationships]]
 
+The longest page on the site is currently: [[The Law Code of the Clan of Whiterun]].
+
 ---
 
 ![[Iflaukais.png]]
