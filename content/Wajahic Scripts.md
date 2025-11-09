@@ -25,7 +25,7 @@ An innovation of these scripts is the modifier letters. Rather than simply using
 ![[Wajahe Numerals 2.png]]
 ### Classical Wajahic Script
 
-The Classical Wajahe Script is a derivative script from the Low Abjad which gained prominence around 2450 KS. It features somewhat curved forms and some degree of simplification, while retaining the general structure and use. Derivatives of this script include the scripts of the [[Jagefja]] and [[Tanlhawes]].
+The Classical Wajahe Script is a derivative script from the Low Abjad which gained prominence around 2450 KS. It features somewhat curved forms and some degree of simplification, while retaining the general structure and use. Derivatives of this script include the scripts of the [[Jağefj]] and [[Tanlhawes]].
 
 ![[Classical Abjad.png]]
 ![[Lowwajahic-Regular.ttf]]
