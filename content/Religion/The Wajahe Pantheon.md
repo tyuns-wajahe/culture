@@ -17,7 +17,7 @@ The Younger Gods are humans blessed with divinity by Aiokkais. This is a blessin
 - [[Rl]]: God of festivals, feasts, and celebrations
 - [[Tchlytah]]: God of order and justice
 - [[Huv]]: God of Chaos, God of Vultures and Carrion
-- [bɛmɰɛ dɛ](Bemwe De): God of the [[Jagefja]] Steppe, legendary chieftain of the Wajahe. Many early descendants are also gods.
+- [bɛmɰɛ dɛ](Bemwe De): God of the [[Jağefj]] Steppe, legendary chieftain of the Wajahe. Many early descendants are also gods.
 - [bɛmɰɛ gɛhæn](Bemwe%20Gehan.md): God of the Lakes, legendary chieftain of the Wajahe.  Many early descendants are also gods.
 - [[Krah]]: God of writing, thinking, reason, and intellect
 - [kzlet͡sɛ](Kzletse.md): God of engineering, patron god of [Whiterun](Whiterun%20(City).md)

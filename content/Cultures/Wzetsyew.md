@@ -1,1 +1,1 @@
-The **Wzetsyew** are an Efic people living in the Eastern Steppe, and are distant relatives of the [[Tswezets]] and [[Jagefja]]. 
+The **Wzetsyew** are an Efic people living in the Eastern Steppe, and are distant relatives of the [[Tswezets]] and [[Jağefj]]. 
