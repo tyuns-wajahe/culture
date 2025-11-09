@@ -119,11 +119,17 @@
 		    case 'Law Code of the Clan of Whiterun':
 			    link.href = `./History/The-Law-Code-of-the-Clan-of-Whiterun`;
 		        break;
+		    case 'Imyes Plague':
+			    link.href = `./History/The-Imyes-Plague`;
+		        break;
 		    case 'Establishment of Vtetwe':
 			    link.href = `./Locations/Vtetwe-(City)`;
 		        break;
 		    case 'Ihwtsrksiw':
 			    link.href = `./States-and-Clans/Ihwtsrksiw`;
+		        break;
+		    case 'Liberation of Whiterun':
+			    link.href = `./History/First-Intermediate-Period`;
 		        break;
         }
         
