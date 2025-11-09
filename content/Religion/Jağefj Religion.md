@@ -1,4 +1,4 @@
-The [[Jağefj|Jağefj]] religion, which is largely borrowed from the T'anlhawes to the north, is a polytheistic-animist religion. It features a rough division of divinities into two groups: the Otwroğònsōr, or Major Gods, and the Otwroğor, or Minor Gods.
+The [[Jagefja|Jagefja]] religion, which is largely borrowed from the T'anlhawes to the north, is a polytheistic-animist religion. It features a rough division of divinities into two groups: the Otwroğònsōr, or Major Gods, and the Otwroğor, or Minor Gods.
 ## Otwroğònsōr
 The Major Gods are those that are directly involved in the creation of the world. Although not strictly speaking a god, the primordial night-sea Zōs is included here for clarity.
 #### Zōs

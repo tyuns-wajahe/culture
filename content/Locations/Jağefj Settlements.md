@@ -1,4 +1,4 @@
-Several notable settlements exist within [[Jağefj]] territory.
+Several notable settlements exist within [[Jagefja]] territory.
 
 #### Ofjonbof/Dwāššgwes
 Originally an [[Tswezets|Efelöhian]] citadel known as Ufiannpaf ('tall hill'), this citadel serves as the center of Jağefj culture, and for some centuries was the capitol of the first native Jağefj polity, the [[State of Ofjonbof]]. As part of the Great Reforms in 3011, the city was renamed Dwāššgwes, a common nickname of the city originally meaning 'House of [[Jağefj Religion|Šaš]],' in part to emphasize the (supposed) piety of its rulers, in part to move away from a name that, due to centuries of shifts in meaning, now meant something like 'big pile.'

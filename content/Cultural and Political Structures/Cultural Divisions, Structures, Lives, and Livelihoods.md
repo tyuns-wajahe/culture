@@ -5,7 +5,7 @@ The Wajahe can be divided into four groups. Together, the Wajahe are all named h
 	- t͡snæ.zʋy.kæ - The Lower Rivermen, who form the economic center of the Wajahe and of [[Zitis]] as a whole
 	- tʷʋɛs.t͡swel - The Middle Rivermen, closely similar to but not as influential as the Lower Rivermen
 - [hʷo.ʂə.hʷuɥ (Imyes)](Imyes) - The Nomadic Wajahe, a once great people who now exist in scattered minority communities
-- [t͡swɛs.t͡sř̩ʋ (Jağefj)](Jağefj.md) - The Steppe and Hill dwellers, who do not speak a Wajahic language, but who draw from the same cultural and political heritage
+- [t͡swɛs.t͡sř̩ʋ (Jağefj)](Jagefja.md) - The Steppe and Hill dwellers, who do not speak a Wajahic language, but who draw from the same cultural and political heritage
 
 ## t͡sæ̃hʷ.kn̩l - The Wajahe of the Lakes
 
@@ -45,11 +45,11 @@ Below is a list of major differences between the Lake and River Wajahe:
 
 *See [[Imyes]]*
 #### Origins and History
-The Imyes are a minor group of Wajahe that survive in a few minor nomadic groups scattered between the border of [[Whiterun Clan]] and the [[Jağefj]] people. They trace their origins to a group of Wajahic peoples that, prior to [[The Ksehyl]], migrated far south, beyond the great river, to the southern hills (that are currently populated by the [[Ejee]]). They directly caused the collapse of the [1st Dynasty](Ksehen%20Clan#The%20First%20Dynasty), after which their short-lived Empire was shattered and their people placed in what is now the Jağefj Steppe. They remained a major culture in the Jağefj steppe, and established the [[Ihwtsrksiw]], a large nomadic steppe confederation. After it's collapse, the Jağefj moved into their land, causing the complete cultural collapse of the Imyes - who now exist only as a few nomadic bands, that are nominally subordinate to the [[Whiterun Clan]].
+The Imyes are a minor group of Wajahe that survive in a few minor nomadic groups scattered between the border of [[Whiterun Clan]] and the [[Jagefja]] people. They trace their origins to a group of Wajahic peoples that, prior to [[The Ksehyl]], migrated far south, beyond the great river, to the southern hills (that are currently populated by the [[Ejee]]). They directly caused the collapse of the [1st Dynasty](Ksehen%20Clan#The%20First%20Dynasty), after which their short-lived Empire was shattered and their people placed in what is now the Jağefj Steppe. They remained a major culture in the Jağefj steppe, and established the [[Ihwtsrksiw]], a large nomadic steppe confederation. After it's collapse, the Jağefj moved into their land, causing the complete cultural collapse of the Imyes - who now exist only as a few nomadic bands, that are nominally subordinate to the [[Whiterun Clan]].
 
 #### Structures
 The Imyes retain many aspects of older Wajahic culture. Their lives are centered around the Horse, and the retain the old practice of keeping False Wajahe (who are extremely rare among the Imyes, and usually only because of a disability) as slaves. Their clans, of which there there were once 4 but only 1 remains, were large groupings who trace their origins to a warrior from [[Bemwe De]]'s Comitatus - these founders of clans were not themselves Imyes, but were instead from the [Kih Wajahe](Tim%20Clan) who the Imyes had conquered. These clans are entirely militaristic and stratocratic, with administration reserved for the greatest of warriors.
 
 ## Jağefj - The Wajahe of the Steppes and Hills
 
-*See [[Jağefj]]*
+*See [[Jagefja]]*

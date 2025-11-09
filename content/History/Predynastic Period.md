@@ -29,7 +29,7 @@ Around 250 KS, there was a major conflict - **The Contest of Chiefs** - between 
 
 ### Writing & Philosophy
 
-*see [The Old Wajahic Script](Wajahic%20Scripts#The%20Old%20Wajahic%20Script) and [[Early Wajahe Philosophy]]* 
+*see [The Old Wajahic Script](Wajahic%20Scripts.md#The%20Old%20Wajahic%20Script) and [[Early Wajahe Philosophy]]* 
 
 ### The First Dynasty
 

@@ -1,5 +1,5 @@
 ## Gender
-The [[Jağefj]] gender system is more similar to that of the T’anlhawes to the north than of the Wajahe to the south, principally in that gender exists. Jağefj society contains two genders - braztsēb (singular brazts) and tevdzēb (tevdz); these will be translated somewhat loosely as men and women, respectively. Gender is not connected to sex, and is chosen by an individual at puberty; preadolescent children are not considered to have a gender.
+The [[Jagefja]] gender system is more similar to that of the T’anlhawes to the north than of the Wajahe to the south, principally in that gender exists. Jağefj society contains two genders - braztsēb (singular brazts) and tevdzēb (tevdz); these will be translated somewhat loosely as men and women, respectively. Gender is not connected to sex, and is chosen by an individual at puberty; preadolescent children are not considered to have a gender.
 
 Women are usually treated as intelligent, natural leaders, though not suited for manual labor. In the military, they often serve as generals. Men, in contrast, are considered to be strong workers but overly-emotional. In the military, they usually serve as infantry. Women are associated with the Greater Moon, men with the Sun, and children with the Lesser Moon.
 

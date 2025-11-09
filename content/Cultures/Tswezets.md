@@ -1,1 +1,1 @@
-The **Tswezets** are an Efic people living in the Eastern Steppe, and are close relatives of the [[Jağefj]] (linguistically and genetically, thought not culturally) and distant relatives of the [[Wzetsyew]]. 
+The **Tswezets** are an Efic people living in the Eastern Steppe, and are close relatives of the [[Jagefja]] (linguistically and genetically, thought not culturally) and distant relatives of the [[Wzetsyew]]. 

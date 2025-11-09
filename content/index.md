@@ -1,7 +1,7 @@
 ---
 title: The Wajahe
 ---
-##### A site by Sol_InvictusXLII and Dave from Tesco
+##### A site by Sol_InvictusXLII, Dave from Tesco, and Oxean
 
 *See the [[Chronology]] page for a timeline!*
 
