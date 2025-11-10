@@ -4,7 +4,7 @@ The conflict began when hisit͡se struck out at tsɛpʷwɛ in a border raid, cro
 
 Meanwhile, hʷwɨɥtrən took a break from [leveling the hill](Kzletse) to strike for their own freedom, including the capture of some frontier territories of hisit͡se - this established the Fifth Dynasty. This state would remain a strong ally of the 3rd Dynasty, and would later fight alongside them in the [[Kapapt Wars]].
 
-![[Pasted image 20251108194751.png]]
+![[Pasted image 20251108194751.png|400]]
 - *Green - the 3rd Dynasty (hisit͡se)*
 - *White - the 5th Dynasty (hʷwɨɥtrən)*
 - *Yellow - the 4th Dynasty, now centered on ʈ͡ʂʷɥɔwɔ*

@@ -2,12 +2,12 @@ The **Kapapt Wars** were two conflicts between Wajahe States and the [[Kapapt]],
 ### First Kapapt War
 In 2437 KS, the [3rd Dynasty](Hisitse%20Clan#Third%20Dynasty), a state on the rise, had very publicly set its sights on the conquest of the remnants of the [[4th Dynasty]], centered on the [ʈ͡ʂʷɥɔwɔ Clan](Chyowo%20Clan). ʈ͡ʂʷɥɔwɔ, knowing full well that they could not defeat their stronger neighbors, requested help from the [Riverine](The%20Riverine%20Culture) empire of kəpəpt to the South - the dominant political power of the day.
 
-![[Pasted image 20251108195431.png]]
+![[Pasted image 20251108195431.png|300]]
 *The Wajahe states and the Kapapt, prior to the conflict*
 
 kəpəpt agreed to send an army north to counterattack the hisit͡se, in exchange for a formalized vassalage of ʈ͡ʂʷɥɔwɔ to the Riverine guilds. However, hisit͡se fully expected an incursion from the south, and was able to defend their land with a decisive victory near some well-placed fortifications. This was followed up by a complete conquest of ʈ͡ʂʷɥɔwɔ, as well as a slight incursion southwards to expand the fortifications.
 
-![[Pasted image 20251108195500.png]]
+![[Pasted image 20251108195500.png|300]]
 *The Wajahe and Kapapt following the First Kapapt War*
 
 ### Second Kapapt War

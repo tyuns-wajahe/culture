@@ -6,13 +6,13 @@ At the beginning of this period, there were 2 distinct groups of Wajahe - the St
 
 Around 250 KS, there was a major conflict - **The Contest of Chiefs** - between several clans of the Steppe Wajahe (in the mythologized telling, a group of vacant clans that were led by the [[Bwuzde]]) and the [[Wzetsyew]]. The Steppe Wajahe were defeated and largely driven out of their land. From their Steppe homeland, they went westwards into the Lakes, intermixing with with the Lake Wajahe - from this point onwards, the two mix sufficiently to be considered one people. During this period, there are frequently clashes with the [[Zuu6]] people, against whom the [[Tim Clan]] of the Wajahe would eventually prevail (and conquer).  
 
-![[Pasted image 20251013203541.png]]
+![[Pasted image 20251013203541.png|400]]
 *The Wajahe around 200 KS. The lake Wajahe are in pink and the Steppe Wajahe in purple.*
 
-![[Pasted image 20251013202043.png]]
+![[Pasted image 20251013202043.png|400]]
 *The Wajahe around 400 KS. Note [[The Riverine Culture]] in red and the [[Zuu6]] in orange.*
 
-![[Pasted image 20251013202700.png]]
+![[Pasted image 20251013202700.png|400]]
 *The Wajahe around 450 KS. Note the Nwah people, an offshoot of the [[Nla Clan]].*
 
 ### Early Clan Centralization
