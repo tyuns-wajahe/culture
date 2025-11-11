@@ -19,3 +19,7 @@ Aiokkais knew that the 4 gods could not defeat such a host alone. And so, they t
 A great battle in the skies was fought, and corpses on both sides lay strewn in such numbers, that when the people looked above, they saw a thick, solid ring of them across the sky. But every demon lay slain, while Aiokkais, his children, and a handful of his new gods, still gave breath.
 
 Ōsaeuais knew they could fight again, but they knew also that again they would lose, for the people below only grew more and more numerous. And so it created two great platforms in the sky, one further away to project its own voice from, and one closer for Aiokkais to speak from. And a peace was agreed, that for one half of the day, Aiokkais’ light would be seen by all life, who could rejoice in its presence. And for one half of the day, Aiokkais would extinguish those flames, such that ōsaeuais may know a measure of peace. Aiokkais in his duty became the Sun, while ōsaeuais let stay the two platforms, shaped into the moons, such that any war in the heavens again could be avoided. Far into the future, only the corpses of those slain in the sky remained, as a reminder of that great and ancient war.
+
+##### Notes
+- The Creation Myth is typically told alongside [[The Argument in the Skies]], as a full descriptive picture.
+- The [[Whiterun Clan]] typically hold to a slightly different version of this creation story: see [[Ezzhé#Reprisal of the Wajahic Creation Myth]]. 
