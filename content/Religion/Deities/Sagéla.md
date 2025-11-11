@@ -1,0 +1,3 @@
+**Sagéla** is a deity of [[The Riverine Culture]], as the god of humanity and the great warrior that eventually laid [[Ezhógha]] to rest. When the Sun and the Moon were shackled to the world to create life on the earth, the demons of the cosmic beyond attack the earth in jealousy, and the Sun and Moon uplift Sagéla to fight them. Sagéla creates humanity in the image of Ezhógha to act as warriors in this conflict, which they win, but which also directly leads to Ezhógha's injury and corruption. Sagéla then fights and kills Ezhógha, who becomes the [[Great River]].
+
+Like Ezhógha, Sagéla also originates from the same root god that the Wajahe deity [[Aiokkais]] originates from.
