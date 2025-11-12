@@ -1,0 +1,1 @@
+The **Yerzhay** or Yazhay clan is a clan of the Lake Wajahe, established from the territory of the [[Nla Clan]] sometime during the [1st Dynastic Period](Ksehen%20Clan#The%20First%20Dynasty) and emerging alongside it's [titular Capital city](Yerzhay%20(City).md). 

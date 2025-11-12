@@ -26,4 +26,4 @@ This section lists a series of events (in chronological order) during the First 
 - 2589 KS - The [[First Oracular War]]
 - 2561-2592 - Tsepwe's Tributaries
 
-2592 KS marks the end of the First Intermediate Period. The actual date corresponds to a treaty in which the armies of the [Chyowo](Chyowo%20Clan) and [Yazhay](Yarzhey%20Clan.md) Clans and the personal armies of the [Hetsekyy Family](Hetsekyy%20Lineage) would all be formally subordinated to the [[Tsepwe Clan]] - which marks the start of the Sixth Dynasty of the Wajahe. 
+2592 KS marks the end of the First Intermediate Period. The actual date corresponds to a treaty in which the armies of the [Chyowo](Chyowo%20Clan) and [Yazhay](Yerzhay%20Clan.md) Clans and the personal armies of the [Hetsekyy Family](Hetsekyy%20Lineage) would all be formally subordinated to the [[Tsepwe Clan]] - which marks the start of the Sixth Dynasty of the Wajahe. 

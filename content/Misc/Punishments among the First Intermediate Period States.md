@@ -1,5 +1,4 @@
-*This text is set in 2530 KS, towards the end of the [First Intermediate Period](First%20Intermediate%20Period.md)
-*
+*This text is set in 2530 KS, towards the end of the [First Intermediate Period](First%20Intermediate%20Period.md)*
 ### Punishments 
 Though the old [law code of the ɥnəhɨʈ͡ʂɨk](Law%20Code%20of%20the%201st%20Dynasty) established three primary punishments to deal with any crime, the half-millennium since those early days have resulted in a variety of regional law codes, with a variety of new punishments. These are elaborated upon below.
 
