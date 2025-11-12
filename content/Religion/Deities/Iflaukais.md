@@ -1,1 +1,4 @@
 **Iflaukais** is a son of [[Aiokkais]] and the god and ruler of the Earth. He is also the god of the living and of life in general, and the god of fire, which he gave to mortals. Iflaukais is constantly pushing the boundaries placed upon the Gods by his father, lacking the discipline his father expects from him. He also has a stronger relationship with the various Younger Gods than he does with his other brothers.
+
+![[Iflaukais Ligature.png]]
+*Standard depiction (ligature) for Iflaukais*

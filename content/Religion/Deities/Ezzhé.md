@@ -1,7 +1,7 @@
 **Ezzhé** is the principle deity of the pantheon of [[Whiterun Clan]]. He is not worshipped by any other group of Wajahe.
 
 ![[Ligature of Ezzhé.png|300]]
-*The symbol for Ezzhé, who is typically not depicted with iconography*
+*The symbol for Ezzhé*
 
 He is often embellished with a list of titles: Great Ezzhé, First God of Mankind, Lord of the Land, Keeper of the Dead, Supreme Slavemaster, Patron of [Whiterun](Whiterun%20(City)), the Just-Tyrant, Great God of the World, Most Venerable Child of [[Aiokkais]], Patron of Their Servants in Life and in Burial, the Earthen God, Great Lord of all Upon and Beneath the World, They To Whom All Souls Are Justly Owed, Guarantor of the Mandate of Hades, the Cold, Slaver of the Deceased, Great Lord of the Earth, the Disciplined, Greater than [[Iflaukais]], Maker of [[Mowyva]], Enlightener of [[Kzletse]], Lord of the Greater Darkness, Who Entombs, Grantor of All Good Stone, Whose Domain Reaches All Seas, Most Loved Child of Aiokkais, the Shadower, Cavernous, [They Who Guides Aiokkais' Blessed Shadow Onto the Deserving and Aiokkais' Cursed Shadow Onto the Undeserving](Shadow%20Feng%20Shui), They Who Has Held Close All The Virtuous Dead And Brought Them Into Eternal Service, Lawgiver, Lifetaker, Lordmaker, [[Archon]] of Archons, and many, many more.
 
