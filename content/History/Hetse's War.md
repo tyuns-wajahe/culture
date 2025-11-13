@@ -1,0 +1,9 @@
+**het͡sɛ's War** was a conflict in 2535 KS, between [ʈ͡ʂʷɥɔwɔ Clan](Chyowo%20Clan) and [ɥəʐəɥ Clan](Yerzhay%20Clan). 
+
+The chief of ʈ͡ʂʷɥɔwɔ, [het͡sɛ](Hetsekyy%20Lineage), attempted to consolidate power in his person. As a charismatic leader and successful warrior, he sought to emulate the clans of the [hʷɔʂhʷuɥ](Imyes) to the far east, who have power held in a single individual - though he has only heard of this in tales, and never ventured to the [[Ihwtsrksiw]] in person. het͡sɛ, through a mixture of bribes, threats, and murders, was able to subdue the [[Clan Elders]] of ʈ͡ʂʷɥɔwɔ, and assert complete control of the clan by himself within 3 years of his taking power. 
+
+However, this proved to be just about the only thing het͡sɛ was ever successful at. The consolidation of power was wildly unpopular with the hinterlands of the clan, and the eastern territories rose in rebellion in 2535 KS. These territories would be supported by ɥəʐəɥ with resources and troops. het͡sɛ would not be able to put down these rebels. Soon after the conflict, they would formally subordinate themselves to ɥəʐəɥ, maintaining their identity as the true Elders of ʈ͡ʂʷɥɔwɔ rather than splinter into a new Clan or merge into ɥəʐəɥ.
+
+This conflict would be followed by 26 years of attempts by het͡sɛ to conquer these border lands, none of which would be successful. In 2560 KS, het͡sɛ would die in one of these raids from an infected injury, and be succeeded by zekɛk, who would [quickly accomplish their parent's goal](Zekek's%20War).
+
+This is wildly unpopular with his domain, and his eastern territories defect to ɥəʐəɥ, in exchange for their help in deposing het͡sɛ. A brief war ensures, in which the victorious het͡sɛ is able to reconquer some of his territories before dying to an infected battle wound, ending the conflict and leaving much of the territory of ʈ͡ʂʷɥɔwɔ in the hands of ɥəʐəɥ.

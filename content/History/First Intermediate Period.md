@@ -20,7 +20,7 @@ This section lists a series of events (in chronological order) during the First 
 - 2490 - Foundation of [[Ihwtsrksiw]] (Imyes Empire)
 - 2507 - [First Hisitse Civil War](The%20Hisitse%20Civil%20Wars.md)
 - 2519 - [Second Hisitse Civil War](The%20Hisitse%20Civil%20Wars.md)
-- 2535 - Hetse's War
+- 2535 - [[Hetse's War]]
 - 2553 - [Third Hisitse Civil War](The%20Hisitse%20Civil%20Wars.md)
 - 2561 - Zekek's War
 - 2589 KS - The [[First Oracular War]]
