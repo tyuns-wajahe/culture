@@ -1,7 +1,7 @@
-The **Ilwtsrksiw** was a large state of the [[Imyes]] established soon after the [[The Imyes Plague]], in 2490 KS, and collapsing in 2783 KS.
+The **Ihwtsrksiw** was a large state of the [[Imyes]] established soon after the [[The Imyes Plague]], in 2490 KS, and collapsing in 2783 KS.
 
 ### Establishment
-The Ilwtsrksiw was established as a confederation between the 4 clans of the [hʷɔʂhʷuɥ](Imyes). It began its rise to power (having experienced and therefore recovered from the plague sooner than the Wajahe), and attempted to conquer territory from the somewhat weakened [5th Dynasty](Whiterun%20Clan#5th%20Dynasty). A battle was set to take place on a strategically chosen hill, however an unexpected and violent rainstorm scattered both sides, and the battle on the following day was located on a site favorable to 5th Dynasty who handily defeated the aggressors and pushed forward to conquer some additional territory themselves. However, the end result of this conflict was to rally the clans of the hʷɔʂhʷuɥ who remained in their confederation as a direct result of this war, even despite their defeat during it.
+The Ihwtsrksiw was established as a confederation between the 4 clans of the [hʷɔʂhʷuɥ](Imyes). It began its rise to power (having experienced and therefore recovered from the plague sooner than the Wajahe), and attempted to conquer territory from the somewhat weakened [5th Dynasty](Whiterun%20Clan#5th%20Dynasty). A battle was set to take place on a strategically chosen hill, however an unexpected and violent rainstorm scattered both sides, and the battle on the following day was located on a site favorable to 5th Dynasty who handily defeated the aggressors and pushed forward to conquer some additional territory themselves. However, the end result of this conflict was to rally the clans of the hʷɔʂhʷuɥ who remained in their confederation as a direct result of this war, even despite their defeat during it.
 
 ![[Pasted image 20251108202532.png]]
 *Whiterun and the Ihwtsrksiw*
@@ -15,7 +15,7 @@ This period is particularly interesting because it represents a broader cultural
 *The end of the Early Period. Note the [Wajahe 6th Dynasty](Tsepwe%20Clan#6th%20Dynasty) that has emerged to the west*
 
 ### Late Period
-The late period would be characterized by nearly 2 centuries of rapid and uncontained expansion, which would directly lead to their collapse. As the state was extremely decentralized during most of this period, essentially no writing is preserved from the state.
+The late period would be characterized by nearly 2 centuries of rapid and unconstrained expansion, which would directly lead to their collapse. As the state was extremely decentralized during most of this period, essentially no writing is preserved from the state.
 ### Collapse
 The Ihwtsrksiw would eventually collapse as a result of a significantly overextended apparatus that was not able to respond to regional rebellions. This would be followed by a major cultural collapse of the [[Imyes]] and their replacement by the [[Jagefja]] and [[Wzetsyew]].
 

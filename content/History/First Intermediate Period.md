@@ -18,10 +18,10 @@ This section lists a series of events (in chronological order) during the First 
 - 2462 - Establishment of [Vtetwe](Vtetwe%20(City).md)
 - 2486 - [[The Imyes Plague]]
 - 2490 - Foundation of [[Ihwtsrksiw]] (Imyes Empire)
-- 2507 - [First Hisitse Civil War](The%20Hisitse%20Civil%20Wars.md) (where the state stops existing)
+- 2507 - [First Hisitse Civil War](The%20Hisitse%20Civil%20Wars.md)
 - 2519 - [Second Hisitse Civil War](The%20Hisitse%20Civil%20Wars.md)
 - 2535 - Hetse's War
-- 2553 - [Third Hisitse Civil War](The%20Hisitse%20Civil%20Wars.md) (where tspewe picks one side, whiterun the other, and then tsepwe wins and conquers whiterun)
+- 2553 - [Third Hisitse Civil War](The%20Hisitse%20Civil%20Wars.md)
 - 2561 - Zekek's War
 - 2589 KS - The [[First Oracular War]]
 - 2561-2592 - Tsepwe's Tributaries

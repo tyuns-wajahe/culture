@@ -4,6 +4,10 @@
 <link href="https://unpkg.com/vis-timeline@latest/styles/vis-timeline-graph2d.min.css" rel="stylesheet" />
 <script src="https://unpkg.com/vis-timeline@latest/standalone/umd/vis-timeline-graph2d.min.js"></script>
 
+<style>
+.vis-item.red {  color: white;  background-color: red;  border-color: darkred;  }
+</style>
+
 <script type="module">
   window.addEventListener('DOMContentLoaded', () => {
     const container = document.getElementById('visualization');
@@ -17,13 +21,13 @@
 
     // Your timeline events
     const events = [
+	  { title: 'Predynastic Period', start: '0000-01-01', end: '1728-01-01', type: 'background', className: 'vis-item.red' },
+	  { title: 'First Dynasty', start: '1731-01-01', end: '2122-01-01', type: 'background' },
+	  { title: 'First Intermediate Period', start: '2181-01-01', end: '2592-01-01', type: 'background' },
       { title: 'The Ksehyl', start: '0000-01-01', type: 'point' },
       { title: 'Early Clan Centralization', start: '0375-01-01', end: '0425-01-01', type: 'range' },
       { title: 'Ksehen Resurgent', start: '680-01-01', type: 'point' },
       {  title: 'The Founding of Kheze', start: '1028-01-01', type: 'point' },
-	  { title: 'Predynastic Period', start: '0000-01-01', end: '1728-01-01', type: 'background' },
-	  { title: 'First Dynasty', start: '1731-01-01', end: '2122-01-01', type: 'background' },
-	  { title: 'First Intermediate Period', start: '2181-01-01', end: '2592-01-01', type: 'background' },
 	  { title: 'Decline of the Riverine Civilization', start: '2625-01-01', end: '2800-01-01', type: 'range' },
 	  { title: 'The Old Wajahic Script', start: '1550-01-01', type: 'point' },
 	  { title: 'Emergence of the Abjad', start: '1800-01-01', type: 'point' },
@@ -51,6 +55,9 @@
 	  { title: 'Establishment of Vtetwe', start: '2462-01-01', type: 'point' },
 	  { title: 'Imyes Plague', start: '2486-01-01', type: 'point' },
 	  { title: 'Ihwtsrksiw', start: '2490-01-01', end: '2783-01-01', type: 'range' },
+	  { title: '1st Hisitse Civil War', start: '2507-01-01', type: 'point' },
+	  { title: '2nd Hisitse Civil War', start: '2519-01-01', type: 'point' },
+	  { title: '3rd Hisitse Civil War', start: '2553-01-01', type: 'point' },
     ];
 
     const items = new vis.DataSet(
@@ -131,6 +138,15 @@
 		    case 'Liberation of Whiterun':
 			    link.href = `./History/First-Intermediate-Period`;
 		        break;
+		    case '1st Hisitse Civil War':
+			    link.href = `./History/The-Hisitse-Civil-Wars#first-civil-war`;
+		        break;
+		    case '2nd Hisitse Civil War':
+			    link.href = `./History/The-Hisitse-Civil-Wars#second-civil-war`;
+		        break;
+		    case '3rd Hisitse Civil War':
+			    link.href = `./History/The-Hisitse-Civil-Wars#third-civil-war`;
+		        break;
         }
         
         const outevent = {
@@ -148,6 +164,10 @@
 	    
 	    if (event.group) {
 	        outevent.group = event.group;
+	    }
+	    
+	    if (event.className) {
+	        outevent.className = event.className;
 	    }
         
 		return outevent;
@@ -232,3 +252,7 @@
 ```
 (85-68)*25+(68-20)*50-22
 ```
+
+Pages without pictures:
+- [[The Hisitse Civil Wars]]
+- 
