@@ -1,18 +1,14 @@
-import { QuartzComponentConstructor } from "./types"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/footer.scss"
-import { version } from "../../package.json"
 
 interface Options {
   links: Record<string, string>
 }
 
 export default ((opts?: Options) => {
-  function Footer() {
-    const year = new Date().getFullYear()
-    const links = opts?.links ?? []
+  const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     return (
-      <footer>
-        <hr />
+      <footer class={`${displayClass ?? ""}`}>
         <p>
           This website is a part of <a href="https://discord.gg/bgkPDvMY67">Tyuns</a> - a collective conlanging and worldbuilding community project.
         </p>
