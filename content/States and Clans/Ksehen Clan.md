@@ -14,7 +14,7 @@ The First Dynasty did not emerge out of a vacuum, and its emergence can be trace
 
 Conflict in the east and the collapse of the third remaining clan, the Kih, remnants of who fled north, ever focused the Wajahe towards the south. However, the rivalry between Ksehen and Nla remained strong, and there was no impetus for this relationship to evolve beyond tribute and protection.
 
-![[Pasted image 20251022181952.png]]
+![[Pasted image 20251022181952.png|300]]
 *The Tributary relationships around 1500 KS, with a split in the middle showing the division between tributaries of the Nla and Ksehen clans respectively.*
 ##### Formation of a Confederacy
 This Impetus came into being with increased conflict between the rivermen and the [[Ejee]] to their south. The Ejee in [[Koshayis]], once a subject city of the [[Dajitti]] people, rose up in conquest - with a large and advanced army. With all the right conditions for a heavily centralized authority to rise, a large state was beginning to emerge in the south, directly bordering the river. Border tensions led to a general fortification of the border both by the Riverine cities, and the Koshayis empire. After a few unfavorable border clashes, the Rivermen called upon the Wajahe to protect them, as was their right from the tribute they paid.
@@ -23,13 +23,13 @@ With a greater threat, rivalry between the Nla and Ksehen was forgotten - after 
 
 Over time, the confederation continued to grow closer, and evolved into something more than just a military relationship. One key part of this was the adoption of the [[Law Code of the 1st Dynasty]], which was supposedly given to the Wajahe by [[Aiokkais]] himself, and adopted in some form or another by every city in the ɥnehɨʈ͡ʂɨk, both Wajahe and Riverine. As border clashes with Koshayis increased in frequency, so too did attempts by Ksehen to foster increased centralization and cohesion in this confederal state. During these conflicts, the northeastern Dajitti region would be occupied and heavily fortified.
 
-![[Pasted image 20251022182111.png]]
+![[Pasted image 20251022182111.png|250]]
 *The First Dynasty around 1750 KS. Note the split of Dajitti land between the First Dynasty and Koshayis, and its fortification. [Whiterun](Whiterun%20(City)) at this point had not joined the Confederation. Yellow (ochre), the official color of the battle standard of the armies of Ksehen, are used as an imperial color for the First Dynasty, and so are used for the state in their maps.*
 
 ##### The Southern War
 Tensions with Koshayis would, of course, break out in war. In 1868, after a large initial foray into the north by the hosts of Koshayis, the Ejee were ambushed and defeated on the river bank, with the barges, better suited to riverine combat, defeating the larger and more significant navy of Koshayis, and preventing any organized retreat for the land forces. With Koshayis’ northern fortifications and settlements laid to waste (including the sack of Nodotto), the Ejee quickly surrendered. The terms were simple - Koshayis would join the confederation as a conquered city.
 
-![[Pasted image 20251022182645.png]]
+![[Pasted image 20251022182645.png|350]]
 *The First Dynasty in 1869 KS. Note the formation of a Riverine confederacy centered on [Salazhallas](Shalzhay%20(City)) and the Kih Wajahe in the north-east. [[Sishaxy]], though founded well before this period, sees its true urbanization occur contemporaneously to the Southern War.*
 
 ##### Golden Age of the First Dynasty
@@ -45,10 +45,16 @@ The collapse started with border tensions with a new empire in the middle river 
 
 The Imyes, spotting weakness, abandoned their post as mercenaries - instead, over the next 2 years, the entire nomadic population crossed the river into the steppe and invaded the lakes. The Wajahe army, unable to regroup and fully splintering along clan lines, was unable to mount any resistance at all. This progressed with city after city falling or surrendering, till the entire core of the ɥnehɨʈ͡ʂɨk was taken - culminating in the Battle of the 7 Chiefs, where the Chuzde, chief of the Nla, chief of Whiterun, and 4 other major clan chiefs, would all be captured and executed by the Imyes. This battle was followed by a [sacking of Ksehen](Sack%20of%20Ksehen), and the subjugation of [Chyowoy](Chyowo%20Clan) and [Yazhay](Yerzhay%20Clan), who would side with the Imyes initially and absorb themselves the remnants of the Nla clan. This battle would be followed by the disbanding of the First Dynasty by its 3 remaining members, the cities of the lower river, who too had suffered devastating defeats dealt by the Imyes, and dropped all pretense of unification.
 
-![[Pasted image 20251022184901.png]]
+![[Pasted image 20251022184901.png|350]]
 *The Aftermath of the Battle of 7 Chiefs. Koshayis, Nodotto, and the riverine cities have all rebelled and established city-states with no real reach beyond their immediate environs. Much of the Lower River and Ejee are zones of conflict between roving bands of Imyes, who have dropped any allegiance to the Imyes state to the north,*
 
 The Imyes, a nomadic people unused to administration and long military campaigns, could not hold onto the land they conquered, and also struggled to retain any degree of internal cohesion between their many nomadic clans. After a defeat along the river, they were driven back as their clans faced rebellion after rebellion, and a good degree of internal conflict forced them to abandon most of their gains. During this conquest and their short empire, as well as with their intermingling with Wajahic groups on the steppe, the Imyes fully assimilated into the Wajahe, culturally and linguistically - but this was not enough to prevent the “liberation” of the eastern lakes. The Liberation of Whiterun in 2181 KS, ending with the total destruction of the Imyes State at the hands of a diverse alliance of Wajahe armies, officially marks the start of the [[First Intermediate Period]].
 
-![[Pasted image 20251022185657.png]]
+![[Pasted image 20251022185657.png|400]]
 *Zitis on the dawn of the [[First Intermediate Period]] - see that page for more information.*
+
+### First Intermediate Period
+During the First Intermediate Period, Ksehen quickly ceased being a major power. It was [sacked](Sack%20of%20Ksehen%20(2232%20KS).md) in 2232 KS after which it fell out of prominence and was replaced by its regional rival, the [[Hkshit Clan]]. It would remain a minor clan, the clan of the Chizl-Oracle ruling over a small and old city, until the [[Second Oracular War]] restored it to prominence.
+
+### Oracular Wars
+.
