@@ -1,3 +1,26 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.dynamic-popover {
+  position: absolute;
+  max-width: 500px;
+  max-height: 350px;
+  background: #FAF8F8;
+  color: #4E4E4E;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--gray);
+  border-radius: 6px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.15);
+  font-size: 0.9rem;
+  z-index: 1000;
+  line-height: 1.5;
+  overflow-y: auto;
+}
+
+@media (prefers-color-scheme: dark) {
+  .dynamic-popover {
+    background: #FAF8F8;
+    color: #4E4E4E;
+    border-color: #4E4E4E;
+  }
+}
