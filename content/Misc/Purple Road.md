@@ -1,0 +1,3 @@
+The **Purple Road** is a trade network that spans multiple continents. Named after the Purple dye which is the most expensive commodity traded, it actually represents a wide wealth of resources and forms the backbone of eastward and westward trade for the Wajahe - who's position on the [[Great River]], which is the richest and most urbanized section of the trade route, results in much of the wealth of this trade being concentrated among the Wajahe. 
+
+The Purple road is largely a land-based route for its eastern section, but becomes a maritime route in its western section, with [[Ksy]] (Sishaxy) serving as the primary transition point.
