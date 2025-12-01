@@ -1,6 +1,6 @@
 The **Custard Wars** was a conflict between [[Tsepwe Clan]] and [[Whiterun Clan]] fought in 2217KS, and serve as an important moment in Whiterun history.
 
-The Custard Wars began when the chief of tsɛpʷwɛ was invited to [hʷwɨɥtrən](Whiterun%20(City)) for a feast, where upon having custard, he died. Everyone assumed he was poisoned, though later historians theorize that he was just deathly allergic to eggs and did not realize custard contains eggs. This would, of course, be seen as a major provocation, and lead to war.
+The Custard Wars began when the chief of tsɛpʷwɛ was invited to [hʷwɨɥtrən](Tsynzkyy.md) for a feast, where upon having custard, he died. Everyone assumed he was poisoned, though later historians theorize that he was just deathly allergic to eggs and did not realize custard contains eggs. This would, of course, be seen as a major provocation, and lead to war.
 
 The battle between hʷwɨɥtrən and tsɛpʷwɛ was fought on the only hill in hʷwɨɥtrən territory (the clan being well known for their large and entirely flat pastures). The hʷwɨɥtrən chariots, deployed on the lowlands, were quickly routed by the tsɛpʷwɛ cavalry, who moved to disrupt the assault on their infantry by the enemy cavalry and were able to drive off the hʷwɨɥtrən army. This was followed by a surrender, after which hʷwɨɥtrən was made into a vassal of tsɛpʷwɛ. A tribute was enforced after this conquest, largely of soldiers. After this point, the tsɛpʷwɛ clan is considered to entire the [Second Dynastic Period]()
 

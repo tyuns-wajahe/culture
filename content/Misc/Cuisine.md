@@ -4,7 +4,7 @@ This is a collection of Wajahe food and beverage.
 
 
 ![[Cured lamb with yogurt and flatbread.png]]
-*A meal from [whiterun](Whiterun%20(city)), cured lamb served with a wheat flatbread and a sauce of garlic and goat cheese.*
+*A meal from [whiterun](Tsynzkyy.md), cured lamb served with a wheat flatbread and a sauce of garlic and goat cheese.*
 
 *The lamb or mutton is placed in a jar or amphora. A curing liquid is prepared consisting of salt, honey, dill, garlic, and tarragon. This liquid is first brought to a boil, whereupon it is poured into the jar containing the lamb, which is stirred to expose the surface of the meat for curing. The container is sealed and left in a cool place to cure for a few days, but it must be inspected for signs of rot, and shaken occasionally. The meat is removed, rinsed, and cooked with a pan, after which it is served with a wheat flatbread and a garlic-yogurt.*
 

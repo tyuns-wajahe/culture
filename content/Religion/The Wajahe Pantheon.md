@@ -21,7 +21,7 @@ The Younger Gods are humans blessed with divinity by Aiokkais. This is a blessin
 - [[Tchlytah]]: God of order and justice
 - [[Huv]]: God of Chaos, God of Vultures and Carrion
 - [[Krah]]: God of writing, thinking, reason, and intellect
-- [kzlet͡sɛ](Kzletse.md): God of engineering, patron god of [Whiterun](Whiterun%20(City).md)
+- [kzlet͡sɛ](Kzletse.md): God of engineering, patron god of [Whiterun](Tsynzkyy.md)
 ### Notes on Gods and Divinity
 - Gods, like people, do not have a Gender (and additionally lack all secondary sexual characteristics). All are equal between the steppe and the dark sky.
 - While less important gods are often depicted using imagery or icons, more important gods (Aiokkais, his children, and Bemwe De and Bemwe Gehan) are never depicted with iconography but rather with writing. They often have unique ligatures that act as symbols for the deity, and are used in place of a physical humanoid depiction in artwork. Osaeuais is also not depicted with a humanoid form, but instead always as a large and abstract mass of darkness.
