@@ -35,5 +35,5 @@ The Classical Wajahe Script is a derivative script from the Low Abjad which gain
 
 The Middle Abjad was the form of the script used to write all 3 Middle Wajahic varieties. It gained prominence around 2870 KS along the Great River (and it would take several decades before its widespread adoption in the Lakes). This script has 4 forms for most characters - word-initial, medial, word-final, and standalone. It also features several ligatures. This script has no widespread derivatives, though the [[Tswezets]], especially in the east, use it as well without any serious adaptation.
 
-![[Middle Abjad.png]]
+![[Middle Abjad v2.png]]
 *In entries with 4 symbols, the first is word-initially, the second is medially, the third is word-finally, and the fourth is standalone. In entries with 3 symbols, the first is word-initially and medially, the second is word-finally, and the third is standalone. In entries with 2 symbols, the first is word-initially medially and standalone, and the second is word-finally. In entries with 1 symbol, it uses that symbol in all contexts. The third row of symbols is ligatures, where the edges can be adapted to place them within a word.*
