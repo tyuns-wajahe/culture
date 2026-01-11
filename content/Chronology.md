@@ -58,6 +58,8 @@
 	  { title: '1st Hisitse Civil War', start: '2507-01-01', type: 'point' },
 	  { title: '2nd Hisitse Civil War', start: '2519-01-01', type: 'point' },
 	  { title: '3rd Hisitse Civil War', start: '2553-01-01', type: 'point' },
+	  { title: 'The Invasion of Sesir', start: '3331-01-01', type:'point'},
+	  { title: 'Establishment of the Navy of Koshyais', start: '3309-01-01', type:'point'}
     ];
 
     const items = new vis.DataSet(
@@ -146,6 +148,12 @@
 		        break;
 		    case '3rd Hisitse Civil War':
 			    link.href = `./History/The-Hisitse-Civil-Wars#third-civil-war`;
+		        break;
+		    case 'Establishment of the Navy of Koshyais':
+			    link.href = `./States-and-Clans/Navy-of-Koshayis`;
+		        break;
+		    case 'Invasion of Sesir':
+			    link.href = `./States-and-Clans/Navy-of-Koshayis#the-invasion-of-sesir`;
 		        break;
         }
         
