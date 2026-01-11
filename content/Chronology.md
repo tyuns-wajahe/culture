@@ -58,7 +58,7 @@
 	  { title: '1st Hisitse Civil War', start: '2507-01-01', type: 'point' },
 	  { title: '2nd Hisitse Civil War', start: '2519-01-01', type: 'point' },
 	  { title: '3rd Hisitse Civil War', start: '2553-01-01', type: 'point' },
-	  { title: 'The Invasion of Sesir', start: '3331-01-01', type:'point'},
+	  { title: 'Invasion of Sesir', start: '3331-01-01', type:'point'},
 	  { title: 'Establishment of the Navy of Koshyais', start: '3309-01-01', type:'point'}
     ];
 
