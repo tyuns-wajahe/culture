@@ -265,3 +265,4 @@ Pages without pictures:
 - [[The Hisitse Civil Wars]]
 - [[Hetse's War]] (also not in chronology)
 - [[Zekek's War]] (also not in chronology, & incomplete)
+- [[Navy of Koshayis]] (missing picture for Sesir (navy) post-invasion)
