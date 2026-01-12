@@ -25,7 +25,7 @@ This period also represents the first time carrier pigeons were used by the Navy
 
 It is important to note that, especially early into these raids, none of these activities were seen as a precursor to a future invasion, but rather as offensive action to end raiding and piracy from the island. This was especially the case for the Wajahe within the Navy, who had little desire to invade this faraway island.
 
-![[Pasted image 20260110212754.png|400]]
+![[Sesir pre-invasion.png|400]]
 *Sesir (brown) before the invasion*
 ##### The Invasion
 In the 9th year of raids (3331 KS) a major force was raised in order to capture the city. The force comprised of 6000 Ejee troops, 550 mercenary auxiliaries, and a 200-strong Legion of Wajahe from Koshayis' Archon. This force was transported to the shores of Sesir largely by commandeered vessels, and was accompanied by a naval contingent of 120 boats. Upon landing, the expectation was for the vanguard of these forces to link up with around 300 locals aligned with the cause, who would have destroyed fortifications before the linkup, and then to invade and capture the city with this force and assisted by a naval blockade.
