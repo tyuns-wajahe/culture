@@ -5,6 +5,7 @@ The Wajahe can be divided into four groups. Together, the Wajahe are all named h
 	- t͡snæ.zʋy.kæ - The Lower Rivermen, who form the economic center of the Wajahe and of [[Zitis]] as a whole
 	- kʷʋɛs.t͡swel - The Middle Rivermen, closely similar to but not as influential as the Lower Rivermen
 	- ře.sæ - The Upper Rivermen, who have a divergent culture between the First and Third Cataracts of the [[Great River]]
+- [ʋnæk.ʋæh](Vnakvah.md) - The Wajahe of the Northern Desert, a faraway culture that assimilated into a Wajahe elite, arising from stray conquerors.
 - [hʷo.ʂə.hʷuɥ (Imyes)](Imyes) - The Nomadic Wajahe, a once great people who now exist in scattered minority communities
 - [t͡swɛs.t͡sř̩ʋ (Jağefj)](Jagefja.md) - The Steppe and Hill dwellers, who do not speak a Wajahic language, but who draw from the same cultural and political heritage
 
@@ -41,7 +42,10 @@ The Wajahe of the Great River trace their origins to the [[Decline of the Riveri
 Below is a list of major differences between the Lake and River Wajahe:
 - The Clans of the River Wajahe, which are significantly newer than Lake Wajahe, do not posses the same intricate history and wealth of clan contracts. Instead, they are better understood as regional identities, originating from [Riverine](The%20Riverine%20Culture) conceptions of tributaries and river sections. Many of these clans have inherited the infrastructure and apparatus of older Riverine states - for example, the [[Shalzhay Clan]] traces its origins to [the City of Sallazhallas](Shalzhay%20(City)), the first urban center in [[Zitis]]. These clans tend to be modeled heavily on [[Tsepwe Clan]], as the 6th Dynasty controlled this land during the decline of the Riverine civilization and the emergence of the Great River Wajahe Clans.
 - The River Wajahe farm potatoes rather than wheat as their principle crop, and pigs rather than horses as their principle livestock. This leads to noticeable variations in land use, irrigation systems, and cuisine.
+## Vnakvah - The Wajahe of the Northern Desert
 
+### Overview
+The Vnakvah trace their origins to a conquering elite stemming from one of the successor kingdoms to the [[Empire of Whiterun]]. This group of Wajahe had their influence eventually reach a large section of the desert and the temperate highlands at its center, and the population assimilated into the ways of the elites.
 ## Imyes - The Nomadic Wajahe
 
 *See [[Imyes]]*
