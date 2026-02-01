@@ -1,8 +1,8 @@
-The **Great River**, known variously as Ifesa, yisa, and nun, is the largest river in [[Zitis]] and serves as a center for commerce, transportation, and religion in the region. Once populated by the [Riverine Civilization](The%20Riverine%20Culture), their [decline](Decline%20of%20the%20Riverine%20Civilization.md) led to Wajahe settlement over the Lower and Middle sections of the river, and Efic settlement over the Upper section. 
+The **Great River**, known variously as Ifesa, yisa, and nun, is the largest river in [[Zitis]] and serves as a center for commerce, transportation, and religion in the region. Once populated by the [Riverine Civilization](The%20Riverine%20Culture), their [decline](Decline%20of%20the%20Riverine%20Civilization.md) led to Wajahe settlement across the river, up to the Third Cataract.
 
 ### Sections
 
-The Great River is divided into 3 sections, corresponding to subdivisions within [[The Riverine Culture]], subdivisions that remain relevant between the cultures currently residing along its banks. As the course of the river is East to West, the sections are named appropriately.
+The Great River is divided into 3 sections, corresponding to subdivisions within [[The Riverine Culture]], subdivisions that remain relevant between the cultures currently residing along its banks. As the course of the river is East to West, the sections are named appropriately. The River has 4 major Cataracts (or whitewater rapid sections) along which river barges cannot cross, and goods (or the barges themselves) have to be moved overland.
 
 ![[Pasted image 20260131212601.png|600]]
 *The sections of the main course of the Great River, with the Lower River in Red, Middle River in Green, and Upper River in teal. The Cataracts of the Great River, all of which are on the Upper River, are shown as white circles. Note that the Great Lakes system is a tributary of the Great River, with a large confluence near the river mouth city of [[Ksy]]*
